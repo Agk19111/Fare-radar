@@ -1,7 +1,13 @@
 {
-  "generated_at": null,
-  "generated_display": "not scanned yet",
+  "generated_at": "2026-07-17T19:11:42.790207+00:00",
+  "generated_display": "Jul 17, 2026 19:11 UTC",
   "deal_count": 0,
-  "source_errors": [],
+  "source_errors": [
+    "YVR Deals: <unknown>:9:34: not well-formed (invalid token)",
+    "YYC Deals: <unknown>:9:34: not well-formed (invalid token)",
+    "YYZ Deals: <unknown>:9:34: not well-formed (invalid token)",
+    "Secret Flying: <unknown>:9:42: not well-formed (invalid token)",
+    "Secret Flying Canada: <unknown>:9:42: not well-formed (invalid token)"
+  ],
   "deals": []
 }
