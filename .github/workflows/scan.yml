@@ -38,10 +38,13 @@ jobs:
           git config --local user.name "GitHub Action"
           git add -A
           git commit -m "Update deals and seen logs" || true
-          git push
+          git push || true
+      
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v2
+        with:
+          path: '.'
       
       - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: .
+        id: deployment
+        uses: actions/deploy-pages@v2
