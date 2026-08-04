@@ -361,31 +361,34 @@ def email_new(deals: list[dict[str, Any]]) -> None:
     password = os.environ.get("GMAIL_APP_PASSWORD")
     recipient = os.environ.get("TO_EMAIL") or user
     if not user or not password or not recipient:
-        print("Email secrets are not configured; skipping email.")
+        print("Email secrets not configured; skipping email.")
         return
 
-    rows, text_rows = [], []
-    for d in deals:
-        rows.append(
-            "<tr>"
-            f"<td style='padding:10px;border-bottom:1px solid #ddd'><b>{html.escape(d['airport'])}</b></td>"
-            f"<td style='padding:10px;border-bottom:1px solid #ddd'>{html.escape(d['title'])}<br><small>{html.escape(d['source'])} · {html.escape(d['posted_display'])}</small></td>"
-            f"<td style='padding:10px;border-bottom:1px solid #ddd'><b>{html.escape(d['price_display'])}</b></td>"
-            f"<td style='padding:10px;border-bottom:1px solid #ddd'><a href='{html.escape(d['url'])}'>Open</a></td>"
-            "</tr>"
-        )
-        text_rows.append(f"[{d['airport']}] {d['title']} — {d['price_display']}\n{d['url']}")
+    try:
+        rows, text_rows = [], []
+        for d in deals:
+            rows.append(
+                "<tr>"
+                f"<td style='padding:10px;border-bottom:1px solid #ddd'><b>{html.escape(d['airport'])}</b></td>"
+                f"<td style='padding:10px;border-bottom:1px solid #ddd'>{html.escape(d['title'])}<br><small>{html.escape(d['source'])} · {html.escape(d['posted_display'])}</small></td>"
+                f"<td style='padding:10px;border-bottom:1px solid #ddd'><b>{html.escape(d['price_display'])}</b></td>"
+                f"<td style='padding:10px;border-bottom:1px solid #ddd'><a href='{html.escape(d['url'])}'>Open</a></td>"
+                "</tr>"
+            )
+            text_rows.append(f"[{d['airport']}] {d['title']} — {d['price_display']}\n{d['url']}")
 
-    msg = MIMEMultipart("alternative")
-    msg["Subject"] = f"Fare Radar: {len(deals)} new match{'es' if len(deals) != 1 else ''}"
-    msg["From"] = user
-    msg["To"] = recipient
-    msg.attach(MIMEText("\n\n".join(text_rows) + "\n\nVerify before booking.", "plain", "utf-8"))
-    msg.attach(MIMEText("<h2>Fare Radar</h2><p>New matching fare leads:</p><table style='border-collapse:collapse;width:100%'>" + "".join(rows) + "</table><p><small>Verify live price and dates before booking.</small></p>", "html", "utf-8"))
-    with smtplib.SMTP_SSL("smtp.gmail.com", 465, timeout=30) as smtp:
-        smtp.login(user, password)
-        smtp.sendmail(user, [recipient], msg.as_string())
-    print(f"Email sent with {len(deals)} new matches.")
+        msg = MIMEMultipart("alternative")
+        msg["Subject"] = f"Fare Radar: {len(deals)} new match{'es' if len(deals) != 1 else ''}"
+        msg["From"] = user
+        msg["To"] = recipient
+        msg.attach(MIMEText("\n\n".join(text_rows) + "\n\nVerify before booking.", "plain", "utf-8"))
+        msg.attach(MIMEText("<h2>Fare Radar</h2><p>New matching fare leads:</p><table style='border-collapse:collapse;width:100%'>" + "".join(rows) + "</table><p><small>Verify live price and dates before booking.</small></p>", "html", "utf-8"))
+        with smtplib.SMTP_SSL("smtp.gmail.com", 465, timeout=30) as smtp:
+            smtp.login(user, password)
+            smtp.sendmail(user, [recipient], msg.as_string())
+        print(f"Email sent with {len(deals)} new matches.")
+    except Exception as e:
+        print(f"Email failed (non-fatal): {e}")
 
 
 def main() -> int:
