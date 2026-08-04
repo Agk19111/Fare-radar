@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-04T11:34:27.262893+00:00",
-  "generated_display": "Aug 04, 2026 11:34 UTC",
-  "deal_count": 23,
+  "generated_at": "2026-08-04T14:40:20.418178+00:00",
+  "generated_display": "Aug 04, 2026 14:40 UTC",
+  "deal_count": 22,
   "source_errors": [],
   "deals": [
     {
@@ -376,23 +376,6 @@
       "posted_display": "Jul 27, 2026",
       "source": "Secret Flying Vancouver",
       "url": "https://www.secretflying.com/posts/vancouver-canada-to-fort-lauderdale-usa-for-only-198-cad-roundtrip/",
-      "note": "Published fare lead. Confirm dates, baggage and final price on the airline checkout."
-    },
-    {
-      "id": "81f2d8799d1caa27418a",
-      "airport": "YVR",
-      "region": "Mexico",
-      "kind": "cash",
-      "error_fare": false,
-      "route": "Non-stop from Vancouver, Canada to Guadalajara, Mexico for only $407 CAD roundtrip",
-      "title": "Non-stop from Vancouver, Canada to Guadalajara, Mexico for only $407 CAD roundtrip",
-      "price": 407,
-      "currency": "CAD",
-      "price_display": "$407 CAD",
-      "posted_at": "2026-07-21T14:03:02+00:00",
-      "posted_display": "Jul 21, 2026",
-      "source": "Secret Flying Vancouver",
-      "url": "https://www.secretflying.com/posts/vancouver-canada-to-guadalajara-mexico-for-only-373-cad-roundtrip/",
       "note": "Published fare lead. Confirm dates, baggage and final price on the airline checkout."
     }
   ]
