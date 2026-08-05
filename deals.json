@@ -1,9 +1,26 @@
 {
-  "generated_at": "2026-08-05T11:30:11.774863+00:00",
-  "generated_display": "Aug 05, 2026 11:30 UTC",
-  "deal_count": 23,
+  "generated_at": "2026-08-05T14:33:45.620508+00:00",
+  "generated_display": "Aug 05, 2026 14:33 UTC",
+  "deal_count": 24,
   "source_errors": [],
   "deals": [
+    {
+      "id": "895041f81776f6f4c7cd",
+      "airport": "YVR",
+      "region": "Mexico",
+      "kind": "cash",
+      "error_fare": false,
+      "route": "Non-stop from Vancouver, Canada to Puerto Vallarta, Mexico for only $357 CAD roundtrip",
+      "title": "Non-stop from Vancouver, Canada to Puerto Vallarta, Mexico for only $357 CAD roundtrip",
+      "price": 357,
+      "currency": "CAD",
+      "price_display": "$357 CAD",
+      "posted_at": "2026-08-05T12:05:41+00:00",
+      "posted_display": "Aug 05, 2026",
+      "source": "Secret Flying Vancouver",
+      "url": "https://www.secretflying.com/posts/vancouver-canada-puerto-vallarta-mexico-333-cad-roundtrip/",
+      "note": "Published fare lead. Confirm dates, baggage and final price on the airline checkout."
+    },
     {
       "id": "ea5c7e7ef6f3d5148cf3",
       "airport": "YYJ",
