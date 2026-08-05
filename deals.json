@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-05T16:54:01.109179+00:00",
-  "generated_display": "Aug 05, 2026 16:54 UTC",
+  "generated_at": "2026-08-05T19:55:46.297924+00:00",
+  "generated_display": "Aug 05, 2026 19:55 UTC",
   "deal_count": 25,
   "source_errors": [],
   "deals": [
@@ -27,8 +27,8 @@
       "region": "Europe",
       "kind": "cash",
       "error_fare": false,
-      "route": "2026 27 July Vancouver, Abbotsford, or Victoria to Barcelona, Spain - $599 CAD roundtrip including taxes",
-      "title": "2026 27 July Vancouver, Abbotsford, or Victoria to Barcelona, Spain - $599 CAD roundtrip including taxes",
+      "route": "2026 2 August Vancouver, Abbotsford, or Victoria to Barcelona, Spain - $599 CAD roundtrip including taxes",
+      "title": "2026 2 August Vancouver, Abbotsford, or Victoria to Barcelona, Spain - $599 CAD roundtrip including taxes",
       "price": 599,
       "currency": "CAD",
       "price_display": "$599 CAD",
