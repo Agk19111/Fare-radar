@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-04T22:30:34.827577+00:00",
-  "generated_display": "Aug 04, 2026 22:30 UTC",
-  "deal_count": 22,
+  "generated_at": "2026-08-05T03:34:58.674607+00:00",
+  "generated_display": "Aug 05, 2026 03:34 UTC",
+  "deal_count": 23,
   "source_errors": [],
   "deals": [
     {
@@ -258,6 +258,23 @@
       "source": "YYZ Deals",
       "url": "https://www.yyzdeals.com/toronto-to-dublin-ireland-408-roundtrip",
       "note": "Travel availability: March, April, May, June, July, August, October 2026. Confirm live inventory before paying."
+    },
+    {
+      "id": "11758cc74e30d4831dff",
+      "airport": "YYC",
+      "region": "Mexico",
+      "kind": "cash",
+      "error_fare": false,
+      "route": "2026 4 August Calgary to Belize - $393 (CB) to $503 CAD roundtrip including taxes [Nonstop Flights]",
+      "title": "2026 4 August Calgary to Belize - $393 (CB) to $503 CAD roundtrip including taxes [Nonstop Flights]",
+      "price": 393,
+      "currency": "CAD",
+      "price_display": "$393 CAD",
+      "posted_at": "2026-08-04T00:00:00+00:00",
+      "posted_display": "Aug 04, 2026",
+      "source": "YYC Deals",
+      "url": "https://www.yycdeals.com/calgary-to-belize-503-roundtrip",
+      "note": "Travel availability: November, December 2026. Confirm live inventory before paying."
     },
     {
       "id": "74228dc9d24888be43ce",
