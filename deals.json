@@ -1,9 +1,26 @@
 {
-  "generated_at": "2026-09-05T17:23:06.323066+00:00",
-  "generated_display": "Sep 05, 2026 17:23 UTC",
-  "deal_count": 33,
+  "generated_at": "2026-09-05T20:21:54.250782+00:00",
+  "generated_display": "Sep 05, 2026 20:21 UTC",
+  "deal_count": 34,
   "source_errors": [],
   "deals": [
+    {
+      "id": "f633e50464bcbe147826",
+      "airport": "SEA",
+      "region": "Europe",
+      "kind": "cash",
+      "error_fare": false,
+      "route": "Seattle to Berlin, Germany for only $456 roundtrip",
+      "title": "Seattle to Berlin, Germany for only $456 roundtrip",
+      "price": 456,
+      "currency": "USD",
+      "price_display": "$456 USD",
+      "posted_at": "2026-09-05T16:27:05+00:00",
+      "posted_display": "Sep 05, 2026",
+      "source": "Secret Flying Seattle",
+      "url": "https://www.secretflying.com/posts/seattle-to-berlin-germany-for-only-398-roundtrip/",
+      "note": "Published fare lead. Confirm dates, baggage and final price on the airline checkout."
+    },
     {
       "id": "1ad94ec4c659c8851073",
       "airport": "SEA",
