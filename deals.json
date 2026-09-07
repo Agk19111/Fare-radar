@@ -1,9 +1,26 @@
 {
-  "generated_at": "2026-09-07T12:34:24.890850+00:00",
-  "generated_display": "Sep 07, 2026 12:34 UTC",
-  "deal_count": 47,
+  "generated_at": "2026-09-07T19:11:02.523723+00:00",
+  "generated_display": "Sep 07, 2026 19:11 UTC",
+  "deal_count": 49,
   "source_errors": [],
   "deals": [
+    {
+      "id": "d29e9b1d2e5dc05937bd",
+      "airport": "YYZ",
+      "region": "Europe",
+      "kind": "cash",
+      "error_fare": false,
+      "route": "Toronto, Canada to Lisbon, Portugal for only $454 CAD roundtrip",
+      "title": "Toronto, Canada to Lisbon, Portugal for only $454 CAD roundtrip",
+      "price": 454,
+      "currency": "CAD",
+      "price_display": "$454 CAD",
+      "posted_at": "2026-09-07T12:01:01+00:00",
+      "posted_display": "Sep 07, 2026",
+      "source": "Secret Flying Canada",
+      "url": "https://www.secretflying.com/posts/toronto-canada-to-lisbon-portugal-for-only-561-cad-roundtrip/",
+      "note": "Published fare lead. Confirm dates, baggage and final price on the airline checkout."
+    },
     {
       "id": "65f49e88a4b849a46852",
       "airport": "YVR",
@@ -394,6 +411,23 @@
       "source": "YYC Deals",
       "url": "https://yycdeals.com/calgary-to-paris-france-605-roundtrip",
       "note": "Travel availability: October, November, December 2026 January, February 2027. Confirm live inventory before paying."
+    },
+    {
+      "id": "4d6f4f4bde6cdcd96573",
+      "airport": "YYZ",
+      "region": "Anywhere",
+      "kind": "business",
+      "error_fare": false,
+      "route": "2026 19 August Toronto to Amman, Jordan in Business Class on Qatar Airways - $2466 CAD roundtrip including taxes",
+      "title": "2026 19 August Toronto to Amman, Jordan in Business Class on Qatar Airways - $2466 CAD roundtrip including taxes",
+      "price": 2466,
+      "currency": "CAD",
+      "price_display": "$2,466 CAD",
+      "posted_at": "2026-09-07T00:00:00+00:00",
+      "posted_display": "Sep 07, 2026",
+      "source": "YYZ Deals",
+      "url": "https://www.yyzdeals.com/toronto-to-amman-jordan-business-class-qatar-airways-2466-roundtrip",
+      "note": "Travel availability: November 2026 January, February 2027. Confirm live inventory before paying."
     },
     {
       "id": "c77a06acf6e02a72eeb7",
