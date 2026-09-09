@@ -1,9 +1,26 @@
 {
-  "generated_at": "2026-09-09T11:25:10.623961+00:00",
-  "generated_display": "Sep 09, 2026 11:25 UTC",
-  "deal_count": 56,
+  "generated_at": "2026-09-09T16:39:45.080734+00:00",
+  "generated_display": "Sep 09, 2026 16:39 UTC",
+  "deal_count": 57,
   "source_errors": [],
   "deals": [
+    {
+      "id": "71c4594c1ec9bdb5d0a8",
+      "airport": "YVR",
+      "region": "USA",
+      "kind": "cash",
+      "error_fare": false,
+      "route": "Vancouver, Canada to Las Vegas, USA for only $228 CAD roundtrip",
+      "title": "Vancouver, Canada to Las Vegas, USA for only $228 CAD roundtrip",
+      "price": 228,
+      "currency": "CAD",
+      "price_display": "$228 CAD",
+      "posted_at": "2026-09-09T14:03:03+00:00",
+      "posted_display": "Sep 09, 2026",
+      "source": "Secret Flying Vancouver",
+      "url": "https://www.secretflying.com/posts/vancouver-canada-las-vegas-usa-197-cad-roundtrip/",
+      "note": "Published fare lead. Confirm dates, baggage and final price on the airline checkout."
+    },
     {
       "id": "65f49e88a4b849a46852",
       "airport": "YVR",
@@ -180,8 +197,8 @@
       "region": "Europe",
       "kind": "cash",
       "error_fare": false,
-      "route": "2026 1 September Calgary to Dublin, Ireland - $427 to $627 CAD roundtrip including taxes [Nonstop Flights]",
-      "title": "2026 1 September Calgary to Dublin, Ireland - $427 to $627 CAD roundtrip including taxes [Nonstop Flights]",
+      "route": "2026 8 September Calgary to Dublin, Ireland - $427 to $627 CAD roundtrip including taxes [Nonstop Flights]",
+      "title": "2026 8 September Calgary to Dublin, Ireland - $427 to $627 CAD roundtrip including taxes [Nonstop Flights]",
       "price": 427,
       "currency": "CAD",
       "price_display": "$427–$627 CAD",
@@ -394,6 +411,23 @@
       "source": "YYZ Deals",
       "url": "https://yyzdeals.com/toronto-to-barcelona-spain-1810-roundtrip",
       "note": "Travel availability: August, September 2026. Confirm live inventory before paying."
+    },
+    {
+      "id": "4557736963f02e1e59aa",
+      "airport": "YYJ",
+      "region": "Europe",
+      "kind": "cash",
+      "error_fare": false,
+      "route": "2026 8 September Vancouver or Victoria to Dublin, Ireland - $493 CAD roundtrip including taxes",
+      "title": "2026 8 September Vancouver or Victoria to Dublin, Ireland - $493 CAD roundtrip including taxes",
+      "price": 493,
+      "currency": "CAD",
+      "price_display": "$493 CAD",
+      "posted_at": "2026-09-09T00:00:00+00:00",
+      "posted_display": "Sep 09, 2026",
+      "source": "YVR Deals",
+      "url": "https://yvrdeals.com/vancouver-to-dublin-ireland-493-roundtrip",
+      "note": "Travel availability: October 2026. Confirm live inventory before paying."
     },
     {
       "id": "264bd1258545688f998b",
@@ -937,23 +971,6 @@
       "posted_display": "Sep 01, 2026",
       "source": "Secret Flying Vancouver",
       "url": "https://www.secretflying.com/posts/vancouver-canada-to-minneapolis-usa-for-only-200-cad-roundtrip/",
-      "note": "Published fare lead. Confirm dates, baggage and final price on the airline checkout."
-    },
-    {
-      "id": "f2e6d4cc40c5b9d4f706",
-      "airport": "YVR",
-      "region": "Europe",
-      "kind": "cash",
-      "error_fare": false,
-      "route": "Vancouver, Canada to Dublin, Ireland for only $684 CAD roundtrip",
-      "title": "Vancouver, Canada to Dublin, Ireland for only $684 CAD roundtrip",
-      "price": 684,
-      "currency": "CAD",
-      "price_display": "$684 CAD",
-      "posted_at": "2026-08-26T16:25:50+00:00",
-      "posted_display": "Aug 26, 2026",
-      "source": "Secret Flying Vancouver",
-      "url": "https://www.secretflying.com/posts/vancouver-canada-to-dublin-ireland-for-only-364-cad-roundtrip/",
       "note": "Published fare lead. Confirm dates, baggage and final price on the airline checkout."
     }
   ]
