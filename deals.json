@@ -1,8 +1,12 @@
 {
-  "generated_at": "2026-09-09T23:15:55.109340+00:00",
-  "generated_display": "Sep 09, 2026 23:15 UTC",
+  "generated_at": "2026-09-10T04:44:19.040292+00:00",
+  "generated_display": "Sep 10, 2026 04:44 UTC",
   "deal_count": 57,
-  "source_errors": [],
+  "source_errors": [
+    "YVR Deals: 403 Client Error: Forbidden for url: https://yvrdeals.com/",
+    "YYC Deals: 403 Client Error: Forbidden for url: https://www.yycdeals.com/",
+    "YYZ Deals: 403 Client Error: Forbidden for url: https://www.yyzdeals.com/"
+  ],
   "deals": [
     {
       "id": "71c4594c1ec9bdb5d0a8",
