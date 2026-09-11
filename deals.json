@@ -1,13 +1,26 @@
 {
-  "generated_at": "2026-09-10T23:12:14.583776+00:00",
-  "generated_display": "Sep 10, 2026 23:12 UTC",
+  "generated_at": "2026-09-11T04:48:56.585587+00:00",
+  "generated_display": "Sep 11, 2026 04:48 UTC",
   "deal_count": 58,
-  "source_errors": [
-    "YVR Deals: 403 Client Error: Forbidden for url: https://yvrdeals.com/",
-    "YYC Deals: 403 Client Error: Forbidden for url: https://www.yycdeals.com/",
-    "YYZ Deals: 403 Client Error: Forbidden for url: https://www.yyzdeals.com/"
-  ],
+  "source_errors": [],
   "deals": [
+    {
+      "id": "dc5584b61852743f8e5a",
+      "airport": "YVR",
+      "region": "Asia",
+      "kind": "cash",
+      "error_fare": false,
+      "route": "Vancouver to Thailand, Vietnam, or The Philippines - $674 roundtrip including taxes",
+      "title": "Vancouver to Thailand, Vietnam, or The Philippines - $674 roundtrip including taxes",
+      "price": 674,
+      "currency": "CAD",
+      "price_display": "$674 CAD",
+      "posted_at": "2026-09-11T04:44:30.542606+00:00",
+      "posted_display": "Sep 11, 2026",
+      "source": "YVR Deals",
+      "url": "https://yvrdeals.com/vancouver-to-bangkok-thailand-674-roundtrip",
+      "note": "Current listing-page deal. Confirm live dates and price before booking."
+    },
     {
       "id": "a1ae17a092bdf8d4d259",
       "airport": "YYZ",
@@ -126,23 +139,6 @@
       "source": "YVR Deals",
       "url": "https://yvrdeals.com/vancouver-to-leon-mexico-472-roundtrip",
       "note": "Travel availability: October, November, December 2026. Confirm live inventory before paying."
-    },
-    {
-      "id": "dc5584b61852743f8e5a",
-      "airport": "YVR",
-      "region": "Asia",
-      "kind": "cash",
-      "error_fare": false,
-      "route": "2026 23 August Vancouver to Thailand, Vietnam, or The Philippines - $674 roundtrip including taxes",
-      "title": "2026 23 August Vancouver to Thailand, Vietnam, or The Philippines - $674 roundtrip including taxes",
-      "price": 674,
-      "currency": "CAD",
-      "price_display": "$674 CAD",
-      "posted_at": "2026-09-10T00:00:00+00:00",
-      "posted_display": "Sep 10, 2026",
-      "source": "YVR Deals",
-      "url": "https://yvrdeals.com/vancouver-to-bangkok-thailand-674-roundtrip",
-      "note": "Travel availability: August, September, November, December 2026 January 2027. Confirm live inventory before paying."
     },
     {
       "id": "6b0e03bbfdd17177dcc4",
