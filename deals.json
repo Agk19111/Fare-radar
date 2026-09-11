@@ -1,9 +1,26 @@
 {
-  "generated_at": "2026-09-11T11:22:40.568666+00:00",
-  "generated_display": "Sep 11, 2026 11:22 UTC",
-  "deal_count": 58,
+  "generated_at": "2026-09-11T16:29:57.198254+00:00",
+  "generated_display": "Sep 11, 2026 16:29 UTC",
+  "deal_count": 59,
   "source_errors": [],
   "deals": [
+    {
+      "id": "936c4fbf2dc517523743",
+      "airport": "YYZ",
+      "region": "Mexico",
+      "kind": "cash",
+      "error_fare": false,
+      "route": "Non-stop from Toronto, Canada to the Dominican Republic for only $331 CAD roundtrip",
+      "title": "Non-stop from Toronto, Canada to the Dominican Republic for only $331 CAD roundtrip",
+      "price": 331,
+      "currency": "CAD",
+      "price_display": "$331 CAD",
+      "posted_at": "2026-09-11T15:08:02+00:00",
+      "posted_display": "Sep 11, 2026",
+      "source": "Secret Flying Canada",
+      "url": "https://www.secretflying.com/posts/toronto-canada-to-the-dominican-republic-for-only-359-cad-roundtrip/",
+      "note": "Published fare lead. Confirm dates, baggage and final price on the airline checkout."
+    },
     {
       "id": "dc5584b61852743f8e5a",
       "airport": "YVR",
