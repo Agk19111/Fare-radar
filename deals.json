@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-12T10:48:07.461731+00:00",
-  "generated_display": "Sep 12, 2026 10:48 UTC",
-  "deal_count": 60,
+  "generated_at": "2026-09-12T15:32:56.942487+00:00",
+  "generated_display": "Sep 12, 2026 15:32 UTC",
+  "deal_count": 61,
   "source_errors": [],
   "deals": [
     {
@@ -282,11 +282,11 @@
       "region": "Europe",
       "kind": "cash",
       "error_fare": false,
-      "route": "2026 2 September Toronto to Barcelona, Spain - $478 CAD roundtrip including taxes",
-      "title": "2026 2 September Toronto to Barcelona, Spain - $478 CAD roundtrip including taxes",
-      "price": 478,
+      "route": "2026 2 September Toronto to Lisbon, Portugal or Barcelona, Spain - $449 to $478 CAD roundtrip including taxes",
+      "title": "2026 2 September Toronto to Lisbon, Portugal or Barcelona, Spain - $449 to $478 CAD roundtrip including taxes",
+      "price": 449,
       "currency": "CAD",
-      "price_display": "$478 CAD",
+      "price_display": "$449–$478 CAD",
       "posted_at": "2026-09-12T00:00:00+00:00",
       "posted_display": "Sep 12, 2026",
       "source": "YYZ Deals",
@@ -411,6 +411,23 @@
       "source": "YVR Deals",
       "url": "https://yvrdeals.com/vancouver-to-mazatlan-mexico-481-roundtrip",
       "note": "Travel availability: November, December 2026. Confirm live inventory before paying."
+    },
+    {
+      "id": "c478e09917c28b9d679a",
+      "airport": "YYC",
+      "region": "Asia",
+      "kind": "cash",
+      "error_fare": false,
+      "route": "2026 9 September Calgary to Seoul, South Korea - $683 to $775 CAD roundtrip including taxes [Nonstop Flights]",
+      "title": "2026 9 September Calgary to Seoul, South Korea - $683 to $775 CAD roundtrip including taxes [Nonstop Flights]",
+      "price": 683,
+      "currency": "CAD",
+      "price_display": "$683–$775 CAD",
+      "posted_at": "2026-09-12T00:00:00+00:00",
+      "posted_display": "Sep 12, 2026",
+      "source": "YYC Deals",
+      "url": "https://yycdeals.com/calgary-to-seoul-south-korea-683-roundtrip",
+      "note": "Travel availability: September, October, November 2026. Confirm live inventory before paying."
     },
     {
       "id": "936c4fbf2dc517523743",
