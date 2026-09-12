@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-12T15:32:56.942487+00:00",
-  "generated_display": "Sep 12, 2026 15:32 UTC",
+  "generated_at": "2026-09-12T20:34:38.342368+00:00",
+  "generated_display": "Sep 12, 2026 20:34 UTC",
   "deal_count": 61,
   "source_errors": [],
   "deals": [
@@ -248,8 +248,8 @@
       "region": "Mexico",
       "kind": "cash",
       "error_fare": false,
-      "route": "2026 11 August Calgary to Manzanillo, Mexico - $378 (CB) to $518 CAD roundtrip including taxes [Nonstop Flights]",
-      "title": "2026 11 August Calgary to Manzanillo, Mexico - $378 (CB) to $518 CAD roundtrip including taxes [Nonstop Flights]",
+      "route": "2026 5 September Calgary to Manzanillo, Mexico - $378 (CB) to $518 CAD roundtrip including taxes [Nonstop Flights]",
+      "title": "2026 5 September Calgary to Manzanillo, Mexico - $378 (CB) to $518 CAD roundtrip including taxes [Nonstop Flights]",
       "price": 378,
       "currency": "CAD",
       "price_display": "$378 CAD",
