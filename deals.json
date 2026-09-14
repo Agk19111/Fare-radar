@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T12:49:12.543280+00:00",
-  "generated_display": "Sep 14, 2026 12:49 UTC",
+  "generated_at": "2026-09-14T19:51:42.030469+00:00",
+  "generated_display": "Sep 14, 2026 19:51 UTC",
   "deal_count": 62,
   "source_errors": [],
   "deals": [
@@ -265,8 +265,8 @@
       "region": "Europe",
       "kind": "cash",
       "error_fare": false,
-      "route": "2026 2 September Toronto to Lisbon, Portugal or Barcelona, Spain - $449 to $478 CAD roundtrip including taxes",
-      "title": "2026 2 September Toronto to Lisbon, Portugal or Barcelona, Spain - $449 to $478 CAD roundtrip including taxes",
+      "route": "2026 12 September Toronto to Lisbon, Portugal or Barcelona, Spain - $449 to $478 CAD roundtrip including taxes",
+      "title": "2026 12 September Toronto to Lisbon, Portugal or Barcelona, Spain - $449 to $478 CAD roundtrip including taxes",
       "price": 449,
       "currency": "CAD",
       "price_display": "$449–$478 CAD",
