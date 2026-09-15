@@ -1,9 +1,26 @@
 {
-  "generated_at": "2026-09-15T17:00:38.643036+00:00",
-  "generated_display": "Sep 15, 2026 17:00 UTC",
+  "generated_at": "2026-09-15T21:22:12.662352+00:00",
+  "generated_display": "Sep 15, 2026 21:22 UTC",
   "deal_count": 62,
   "source_errors": [],
   "deals": [
+    {
+      "id": "c28d1c00e864ab2ba814",
+      "airport": "SEA",
+      "region": "USA",
+      "kind": "cash",
+      "error_fare": false,
+      "route": "Non-stop from Atlanta to Seattle (& vice versa) for only $177 roundtrip",
+      "title": "Non-stop from Atlanta to Seattle (& vice versa) for only $177 roundtrip",
+      "price": 177,
+      "currency": "USD",
+      "price_display": "$177 USD",
+      "posted_at": "2026-09-15T20:12:09+00:00",
+      "posted_display": "Sep 15, 2026",
+      "source": "Secret Flying Seattle",
+      "url": "https://www.secretflying.com/posts/atlanta-seattle-vice-versa-220-roundtrip/",
+      "note": "Published fare lead. Confirm dates, baggage and final price on the airline checkout."
+    },
     {
       "id": "329847827e413418f4fc",
       "airport": "YVR",
@@ -197,8 +214,8 @@
       "region": "Europe",
       "kind": "cash",
       "error_fare": false,
-      "route": "2026 6 September Calgary to Rome, Italy - $575 to $624 CAD roundtrip including taxes [Nonstop Flights]",
-      "title": "2026 6 September Calgary to Rome, Italy - $575 to $624 CAD roundtrip including taxes [Nonstop Flights]",
+      "route": "2026 11 September Calgary to Rome, Italy - $575 to $624 CAD roundtrip including taxes [Nonstop Flights]",
+      "title": "2026 11 September Calgary to Rome, Italy - $575 to $624 CAD roundtrip including taxes [Nonstop Flights]",
       "price": 575,
       "currency": "CAD",
       "price_display": "$575–$624 CAD",
@@ -716,23 +733,6 @@
       "posted_display": "Sep 06, 2026",
       "source": "Secret Flying Seattle",
       "url": "https://www.secretflying.com/posts/minneapolis-seattle-vice-versa-196-roundtrip/",
-      "note": "Published fare lead. Confirm dates, baggage and final price on the airline checkout."
-    },
-    {
-      "id": "c28d1c00e864ab2ba814",
-      "airport": "SEA",
-      "region": "USA",
-      "kind": "cash",
-      "error_fare": false,
-      "route": "Non-stop from Atlanta to Seattle (& vice versa) for only $215 roundtrip",
-      "title": "Non-stop from Atlanta to Seattle (& vice versa) for only $215 roundtrip",
-      "price": 215,
-      "currency": "USD",
-      "price_display": "$215 USD",
-      "posted_at": "2026-09-06T11:27:09+00:00",
-      "posted_display": "Sep 06, 2026",
-      "source": "Secret Flying Seattle",
-      "url": "https://www.secretflying.com/posts/atlanta-seattle-vice-versa-220-roundtrip/",
       "note": "Published fare lead. Confirm dates, baggage and final price on the airline checkout."
     },
     {
