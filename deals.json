@@ -1,9 +1,26 @@
 {
-  "generated_at": "2026-09-16T16:56:42.285743+00:00",
-  "generated_display": "Sep 16, 2026 16:56 UTC",
-  "deal_count": 63,
+  "generated_at": "2026-09-16T21:19:29.047651+00:00",
+  "generated_display": "Sep 16, 2026 21:19 UTC",
+  "deal_count": 64,
   "source_errors": [],
   "deals": [
+    {
+      "id": "a5737d62553a8c0509bc",
+      "airport": "SEA",
+      "region": "Europe",
+      "kind": "cash",
+      "error_fare": false,
+      "route": "Seattle to Zurich, Switzerland for only $457 roundtrip",
+      "title": "Seattle to Zurich, Switzerland for only $457 roundtrip",
+      "price": 457,
+      "currency": "USD",
+      "price_display": "$457 USD",
+      "posted_at": "2026-09-16T15:56:01+00:00",
+      "posted_display": "Sep 16, 2026",
+      "source": "Secret Flying Seattle",
+      "url": "https://www.secretflying.com/posts/xmas-new-year-seattle-zurich-switzerland-403-roundtrip/",
+      "note": "Published fare lead. Confirm dates, baggage and final price on the airline checkout."
+    },
     {
       "id": "0201da17d4e00209ce5f",
       "airport": "YVR",
