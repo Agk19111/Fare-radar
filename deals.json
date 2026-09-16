@@ -1,9 +1,26 @@
 {
-  "generated_at": "2026-09-15T21:22:12.662352+00:00",
-  "generated_display": "Sep 15, 2026 21:22 UTC",
+  "generated_at": "2026-09-16T04:50:44.238516+00:00",
+  "generated_display": "Sep 16, 2026 04:50 UTC",
   "deal_count": 62,
   "source_errors": [],
   "deals": [
+    {
+      "id": "1ad94ec4c659c8851073",
+      "airport": "SEA",
+      "region": "USA",
+      "kind": "cash",
+      "error_fare": false,
+      "route": "Non-stop from Seattle to Salt Lake City, Utah (& vice versa) for only $137 roundtrip",
+      "title": "Non-stop from Seattle to Salt Lake City, Utah (& vice versa) for only $137 roundtrip",
+      "price": 137,
+      "currency": "USD",
+      "price_display": "$137 USD",
+      "posted_at": "2026-09-16T02:56:02+00:00",
+      "posted_display": "Sep 16, 2026",
+      "source": "Secret Flying Seattle",
+      "url": "https://www.secretflying.com/posts/seattle-to-salt-lake-city-utah-vice-versa-for-only-103-roundtrip/",
+      "note": "Published fare lead. Confirm dates, baggage and final price on the airline checkout."
+    },
     {
       "id": "c28d1c00e864ab2ba814",
       "airport": "SEA",
@@ -920,23 +937,6 @@
       "posted_display": "Sep 05, 2026",
       "source": "Secret Flying Seattle",
       "url": "https://www.secretflying.com/posts/seattle-to-berlin-germany-for-only-398-roundtrip/",
-      "note": "Published fare lead. Confirm dates, baggage and final price on the airline checkout."
-    },
-    {
-      "id": "1ad94ec4c659c8851073",
-      "airport": "SEA",
-      "region": "USA",
-      "kind": "cash",
-      "error_fare": false,
-      "route": "Non-stop from Seattle to Salt Lake City, Utah (& vice versa) for only $92 roundtrip",
-      "title": "Non-stop from Seattle to Salt Lake City, Utah (& vice versa) for only $92 roundtrip",
-      "price": 92,
-      "currency": "USD",
-      "price_display": "$92 USD",
-      "posted_at": "2026-09-05T03:56:02+00:00",
-      "posted_display": "Sep 05, 2026",
-      "source": "Secret Flying Seattle",
-      "url": "https://www.secretflying.com/posts/seattle-to-salt-lake-city-utah-vice-versa-for-only-103-roundtrip/",
       "note": "Published fare lead. Confirm dates, baggage and final price on the airline checkout."
     },
     {
