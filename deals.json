@@ -1,9 +1,26 @@
 {
-  "generated_at": "2026-09-16T11:35:26.743479+00:00",
-  "generated_display": "Sep 16, 2026 11:35 UTC",
-  "deal_count": 62,
+  "generated_at": "2026-09-16T16:56:42.285743+00:00",
+  "generated_display": "Sep 16, 2026 16:56 UTC",
+  "deal_count": 63,
   "source_errors": [],
   "deals": [
+    {
+      "id": "0201da17d4e00209ce5f",
+      "airport": "YVR",
+      "region": "Europe",
+      "kind": "cash",
+      "error_fare": false,
+      "route": "Vancouver, Canada to Dublin, Ireland for only $558 CAD roundtrip",
+      "title": "Vancouver, Canada to Dublin, Ireland for only $558 CAD roundtrip",
+      "price": 558,
+      "currency": "CAD",
+      "price_display": "$558 CAD",
+      "posted_at": "2026-09-16T13:49:11+00:00",
+      "posted_display": "Sep 16, 2026",
+      "source": "Secret Flying Vancouver",
+      "url": "https://www.secretflying.com/posts/vancouver-canada-to-dublin-ireland-for-only-558-cad-roundtrip/",
+      "note": "Published fare lead. Confirm dates, baggage and final price on the airline checkout."
+    },
     {
       "id": "1ad94ec4c659c8851073",
       "airport": "SEA",
