@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-17T17:00:56.874923+00:00",
-  "generated_display": "Sep 17, 2026 17:00 UTC",
+  "generated_at": "2026-09-17T21:23:28.101674+00:00",
+  "generated_display": "Sep 17, 2026 21:23 UTC",
   "deal_count": 63,
   "source_errors": [],
   "deals": [
@@ -299,8 +299,8 @@
       "region": "Mexico",
       "kind": "cash",
       "error_fare": false,
-      "route": "2026 28 August Toronto to Belize - $339 (CB) to $429 CAD roundtrip including taxes [Nonstop Flights]",
-      "title": "2026 28 August Toronto to Belize - $339 (CB) to $429 CAD roundtrip including taxes [Nonstop Flights]",
+      "route": "2026 11 September Toronto to Belize - $339 (CB) to $429 CAD roundtrip including taxes [Nonstop Flights]",
+      "title": "2026 11 September Toronto to Belize - $339 (CB) to $429 CAD roundtrip including taxes [Nonstop Flights]",
       "price": 339,
       "currency": "CAD",
       "price_display": "$339 CAD",
