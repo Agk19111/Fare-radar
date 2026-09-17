@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-17T11:43:05.469272+00:00",
-  "generated_display": "Sep 17, 2026 11:43 UTC",
-  "deal_count": 64,
+  "generated_at": "2026-09-17T17:00:56.874923+00:00",
+  "generated_display": "Sep 17, 2026 17:00 UTC",
+  "deal_count": 63,
   "source_errors": [],
   "deals": [
     {
@@ -248,8 +248,8 @@
       "region": "Europe",
       "kind": "cash",
       "error_fare": false,
-      "route": "2026 7 September Calgary to Paris, France - $586 CAD roundtrip including taxes [Nonstop Flights]",
-      "title": "2026 7 September Calgary to Paris, France - $586 CAD roundtrip including taxes [Nonstop Flights]",
+      "route": "2026 17 September Calgary to Paris, France - $586 CAD roundtrip including taxes [Nonstop Flights]",
+      "title": "2026 17 September Calgary to Paris, France - $586 CAD roundtrip including taxes [Nonstop Flights]",
       "price": 586,
       "currency": "CAD",
       "price_display": "$586 CAD",
@@ -316,8 +316,8 @@
       "region": "Mexico",
       "kind": "cash",
       "error_fare": false,
-      "route": "2026 31 August Toronto to Costa Rica - $273 to $425 CAD roundtrip including taxes [Nonstop Flights]",
-      "title": "2026 31 August Toronto to Costa Rica - $273 to $425 CAD roundtrip including taxes [Nonstop Flights]",
+      "route": "2026 9 September Toronto to Costa Rica - $273 to $425 CAD roundtrip including taxes [Nonstop Flights]",
+      "title": "2026 9 September Toronto to Costa Rica - $273 to $425 CAD roundtrip including taxes [Nonstop Flights]",
       "price": 273,
       "currency": "CAD",
       "price_display": "$273–$425 CAD",
@@ -384,8 +384,8 @@
       "region": "Asia",
       "kind": "cash",
       "error_fare": false,
-      "route": "2026 4 September Calgary to Seoul, South Korea - $683 to $775 CAD roundtrip including taxes [Nonstop Flights]",
-      "title": "2026 4 September Calgary to Seoul, South Korea - $683 to $775 CAD roundtrip including taxes [Nonstop Flights]",
+      "route": "2026 16 September Calgary to Seoul, South Korea - $683 to $775 CAD roundtrip including taxes [Nonstop Flights]",
+      "title": "2026 16 September Calgary to Seoul, South Korea - $683 to $775 CAD roundtrip including taxes [Nonstop Flights]",
       "price": 683,
       "currency": "CAD",
       "price_display": "$683–$775 CAD",
@@ -1073,23 +1073,6 @@
       "posted_display": "Sep 04, 2026",
       "source": "Secret Flying Canada",
       "url": "https://www.secretflying.com/posts/toronto-canada-barcelona-spain-581-cad-roundtrip/",
-      "note": "Published fare lead. Confirm dates, baggage and final price on the airline checkout."
-    },
-    {
-      "id": "539c1c3705e806a93197",
-      "airport": "SEA",
-      "region": "Europe",
-      "kind": "cash",
-      "error_fare": false,
-      "route": "Non-stop from US cities to Reykjavik, Iceland from only $325 roundtrip",
-      "title": "Non-stop from US cities to Reykjavik, Iceland from only $325 roundtrip",
-      "price": 325,
-      "currency": "USD",
-      "price_display": "$325 USD",
-      "posted_at": "2026-09-03T15:32:02+00:00",
-      "posted_display": "Sep 03, 2026",
-      "source": "Secret Flying Seattle",
-      "url": "https://www.secretflying.com/posts/us-cities-to-reykjavik-iceland-from-only-224-roundtrip/",
       "note": "Published fare lead. Confirm dates, baggage and final price on the airline checkout."
     }
   ]
