@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-18T11:16:28.940953+00:00",
-  "generated_display": "Sep 18, 2026 11:16 UTC",
-  "deal_count": 62,
+  "generated_at": "2026-09-18T16:25:14.402475+00:00",
+  "generated_display": "Sep 18, 2026 16:25 UTC",
+  "deal_count": 60,
   "source_errors": [],
   "deals": [
     {
@@ -1022,40 +1022,6 @@
       "posted_display": "Sep 04, 2026",
       "source": "Secret Flying Seattle",
       "url": "https://www.secretflying.com/posts/seattle-to-sacramento-california-vice-versa-for-only-72-roundtrip/",
-      "note": "Published fare lead. Confirm dates, baggage and final price on the airline checkout."
-    },
-    {
-      "id": "74228dc9d24888be43ce",
-      "airport": "SEA",
-      "region": "Europe",
-      "kind": "cash",
-      "error_fare": false,
-      "route": "Seattle to Oslo, Norway for only $398 roundtrip",
-      "title": "Seattle to Oslo, Norway for only $398 roundtrip",
-      "price": 398,
-      "currency": "USD",
-      "price_display": "$398 USD",
-      "posted_at": "2026-09-04T13:27:03+00:00",
-      "posted_display": "Sep 04, 2026",
-      "source": "Secret Flying Seattle",
-      "url": "https://www.secretflying.com/posts/seattle-to-oslo-norway-for-only-474-roundtrip/",
-      "note": "Published fare lead. Confirm dates, baggage and final price on the airline checkout."
-    },
-    {
-      "id": "af56d4bc11fe8c4aaf4e",
-      "airport": "SEA",
-      "region": "USA",
-      "kind": "cash",
-      "error_fare": false,
-      "route": "Non-stop from Chicago to Seattle (& vice versa) for only $197 roundtrip",
-      "title": "Non-stop from Chicago to Seattle (& vice versa) for only $197 roundtrip",
-      "price": 197,
-      "currency": "USD",
-      "price_display": "$197 USD",
-      "posted_at": "2026-09-04T11:55:02+00:00",
-      "posted_display": "Sep 04, 2026",
-      "source": "Secret Flying Seattle",
-      "url": "https://www.secretflying.com/posts/chicago-to-seattle-vice-versa-for-only-146-roundtrip/",
       "note": "Published fare lead. Confirm dates, baggage and final price on the airline checkout."
     }
   ]
