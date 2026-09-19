@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-19T15:54:03.246183+00:00",
-  "generated_display": "Sep 19, 2026 15:54 UTC",
-  "deal_count": 57,
+  "generated_at": "2026-09-19T20:41:41.675185+00:00",
+  "generated_display": "Sep 19, 2026 20:41 UTC",
+  "deal_count": 56,
   "source_errors": [],
   "deals": [
     {
@@ -78,8 +78,8 @@
       "region": "Asia",
       "kind": "cash",
       "error_fare": false,
-      "route": "2026 28 August Vancouver to Hangzhou, China - $748 CAD roundtrip including taxes",
-      "title": "2026 28 August Vancouver to Hangzhou, China - $748 CAD roundtrip including taxes",
+      "route": "2026 16 September Vancouver to Hangzhou, China - $748 CAD roundtrip including taxes",
+      "title": "2026 16 September Vancouver to Hangzhou, China - $748 CAD roundtrip including taxes",
       "price": 748,
       "currency": "CAD",
       "price_display": "$748 CAD",
@@ -87,7 +87,7 @@
       "posted_display": "Sep 19, 2026",
       "source": "YVR Deals",
       "url": "https://yvrdeals.com/vancouver-to-hangzhou-china-748-roundtrip",
-      "note": "Travel availability: October 2026. Confirm live inventory before paying."
+      "note": "Travel availability: October, November, December 2026 January, February, March 2027. Confirm live inventory before paying."
     },
     {
       "id": "53de8036bfa5fc2a07e7",
@@ -955,23 +955,6 @@
       "source": "YYC Deals",
       "url": "https://www.yycdeals.com/calgary-to-manzanillo-mexico-557-roundtrip",
       "note": "Travel availability: November, December 2026. Confirm live inventory before paying."
-    },
-    {
-      "id": "f633e50464bcbe147826",
-      "airport": "SEA",
-      "region": "Europe",
-      "kind": "cash",
-      "error_fare": false,
-      "route": "Seattle to Berlin, Germany for only $456 roundtrip",
-      "title": "Seattle to Berlin, Germany for only $456 roundtrip",
-      "price": 456,
-      "currency": "USD",
-      "price_display": "$456 USD",
-      "posted_at": "2026-09-05T16:27:05+00:00",
-      "posted_display": "Sep 05, 2026",
-      "source": "Secret Flying Seattle",
-      "url": "https://www.secretflying.com/posts/seattle-to-berlin-germany-for-only-398-roundtrip/",
-      "note": "Published fare lead. Confirm dates, baggage and final price on the airline checkout."
     }
   ]
 }
