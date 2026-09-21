@@ -1,9 +1,26 @@
 {
-  "generated_at": "2026-09-21T12:49:47.684592+00:00",
-  "generated_display": "Sep 21, 2026 12:49 UTC",
-  "deal_count": 42,
+  "generated_at": "2026-09-21T20:00:48.583431+00:00",
+  "generated_display": "Sep 21, 2026 20:00 UTC",
+  "deal_count": 43,
   "source_errors": [],
   "deals": [
+    {
+      "id": "5028d1abf4ddf8ffdaf7",
+      "airport": "YYZ",
+      "region": "Mexico",
+      "kind": "cash",
+      "error_fare": false,
+      "route": "Non-stop from Toronto, Canada to Aruba for only $308 CAD roundtrip",
+      "title": "Non-stop from Toronto, Canada to Aruba for only $308 CAD roundtrip",
+      "price": 308,
+      "currency": "CAD",
+      "price_display": "$308 CAD",
+      "posted_at": "2026-09-21T15:24:02+00:00",
+      "posted_display": "Sep 21, 2026",
+      "source": "Secret Flying Canada",
+      "url": "https://www.secretflying.com/posts/toronto-canada-to-aruba-for-only-409-cad-roundtrip/",
+      "note": "Published fare lead. Confirm dates, baggage and final price on the airline checkout."
+    },
     {
       "id": "65f49e88a4b849a46852",
       "airport": "YVR",
