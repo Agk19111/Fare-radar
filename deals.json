@@ -1,12 +1,8 @@
 {
-  "generated_at": "2026-09-22T16:58:58.019851+00:00",
-  "generated_display": "Sep 22, 2026 16:58 UTC",
-  "deal_count": 37,
-  "source_errors": [
-    "YVR Deals: 403 Client Error: Forbidden for url: https://yvrdeals.com/",
-    "YYC Deals: 403 Client Error: Forbidden for url: https://www.yycdeals.com/",
-    "YYZ Deals: 403 Client Error: Forbidden for url: https://www.yyzdeals.com/"
-  ],
+  "generated_at": "2026-09-22T21:20:42.968418+00:00",
+  "generated_display": "Sep 22, 2026 21:20 UTC",
+  "deal_count": 36,
+  "source_errors": [],
   "deals": [
     {
       "id": "65f49e88a4b849a46852",
@@ -40,7 +36,7 @@
       "posted_display": "Sep 22, 2026",
       "source": "YVR Deals",
       "url": "https://yvrdeals.com/vancouver-to-qingdao-china-749-roundtrip",
-      "note": "Travel availability: October, November, December 2026. Confirm live inventory before paying."
+      "note": "Travel availability: October, November, December 2026 January, February, March 2027. Confirm live inventory before paying."
     },
     {
       "id": "6a7bc2a2f8ec29efd512",
@@ -618,23 +614,6 @@
       "posted_display": "Sep 09, 2026",
       "source": "Secret Flying Vancouver",
       "url": "https://www.secretflying.com/posts/vancouver-canada-las-vegas-usa-197-cad-roundtrip/",
-      "note": "Published fare lead. Confirm dates, baggage and final price on the airline checkout."
-    },
-    {
-      "id": "264bd1258545688f998b",
-      "airport": "SEA",
-      "region": "Europe",
-      "kind": "cash",
-      "error_fare": false,
-      "route": "US cities to European cities from only $353 roundtrip",
-      "title": "US cities to European cities from only $353 roundtrip",
-      "price": 353,
-      "currency": "USD",
-      "price_display": "$353 USD",
-      "posted_at": "2026-09-08T18:34:48+00:00",
-      "posted_display": "Sep 08, 2026",
-      "source": "Secret Flying Seattle",
-      "url": "https://www.secretflying.com/posts/us-cities-to-european-cities-from-only-353-roundtrip/",
       "note": "Published fare lead. Confirm dates, baggage and final price on the airline checkout."
     }
   ]
