@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-24T11:47:15.624418+00:00",
-  "generated_display": "Sep 24, 2026 11:47 UTC",
-  "deal_count": 35,
+  "generated_at": "2026-09-24T17:12:38.607328+00:00",
+  "generated_display": "Sep 24, 2026 17:12 UTC",
+  "deal_count": 34,
   "source_errors": [],
   "deals": [
     {
@@ -581,23 +581,6 @@
       "source": "YVR Deals",
       "url": "https://yvrdeals.com/vancouver-to-bangkok-thailand-674-roundtrip",
       "note": "Travel availability: August, September, November, December 2026 January 2027. Confirm live inventory before paying."
-    },
-    {
-      "id": "a1ae17a092bdf8d4d259",
-      "airport": "YYZ",
-      "region": "Mexico",
-      "kind": "cash",
-      "error_fare": false,
-      "route": "Non-stop from Toronto, Canada to Liberia, Costa Rica for only $277 CAD roundtrip",
-      "title": "Non-stop from Toronto, Canada to Liberia, Costa Rica for only $277 CAD roundtrip",
-      "price": 277,
-      "currency": "CAD",
-      "price_display": "$277 CAD",
-      "posted_at": "2026-09-10T16:26:01+00:00",
-      "posted_display": "Sep 10, 2026",
-      "source": "Secret Flying Canada",
-      "url": "https://www.secretflying.com/posts/toronto-canada-to-liberia-costa-rica-for-only-365-cad-roundtrip/",
-      "note": "Published fare lead. Confirm dates, baggage and final price on the airline checkout."
     }
   ]
 }
