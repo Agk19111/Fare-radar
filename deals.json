@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-25T11:52:00.356671+00:00",
-  "generated_display": "Sep 25, 2026 11:52 UTC",
+  "generated_at": "2026-09-25T17:12:15.291451+00:00",
+  "generated_display": "Sep 25, 2026 17:12 UTC",
   "deal_count": 33,
   "source_errors": [],
   "deals": [
@@ -362,6 +362,23 @@
       "note": "Travel availability: September, October, November 2026. Confirm live inventory before paying."
     },
     {
+      "id": "dc5584b61852743f8e5a",
+      "airport": "YVR",
+      "region": "Asia",
+      "kind": "cash",
+      "error_fare": false,
+      "route": "2026 23 September Vancouver to Thailand, Vietnam, or The Philippines - $674 roundtrip including taxes",
+      "title": "2026 23 September Vancouver to Thailand, Vietnam, or The Philippines - $674 roundtrip including taxes",
+      "price": 674,
+      "currency": "CAD",
+      "price_display": "$674 CAD",
+      "posted_at": "2026-09-25T00:00:00+00:00",
+      "posted_display": "Sep 25, 2026",
+      "source": "YVR Deals",
+      "url": "https://yvrdeals.com/vancouver-to-bangkok-thailand-674-roundtrip",
+      "note": "Travel availability: August, September, November, December 2026 January, February 2027. Confirm live inventory before paying."
+    },
+    {
       "id": "53de8036bfa5fc2a07e7",
       "airport": "YVR",
       "region": "Mexico",
@@ -547,23 +564,6 @@
       "source": "YYC Deals",
       "url": "https://yycdeals.com/calgary-to-costa-rica-572-roundtrip",
       "note": "Travel availability: August, September, October, November, December 2026. Confirm live inventory before paying."
-    },
-    {
-      "id": "936c4fbf2dc517523743",
-      "airport": "YYZ",
-      "region": "Mexico",
-      "kind": "cash",
-      "error_fare": false,
-      "route": "Non-stop from Toronto, Canada to the Dominican Republic for only $331 CAD roundtrip",
-      "title": "Non-stop from Toronto, Canada to the Dominican Republic for only $331 CAD roundtrip",
-      "price": 331,
-      "currency": "CAD",
-      "price_display": "$331 CAD",
-      "posted_at": "2026-09-11T15:08:02+00:00",
-      "posted_display": "Sep 11, 2026",
-      "source": "Secret Flying Canada",
-      "url": "https://www.secretflying.com/posts/toronto-canada-to-the-dominican-republic-for-only-359-cad-roundtrip/",
-      "note": "Published fare lead. Confirm dates, baggage and final price on the airline checkout."
     }
   ]
 }
