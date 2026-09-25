@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-24T21:31:58.186835+00:00",
-  "generated_display": "Sep 24, 2026 21:31 UTC",
-  "deal_count": 34,
+  "generated_at": "2026-09-25T04:59:08.500448+00:00",
+  "generated_display": "Sep 25, 2026 04:59 UTC",
+  "deal_count": 33,
   "source_errors": [],
   "deals": [
     {
@@ -564,23 +564,6 @@
       "source": "Secret Flying Canada",
       "url": "https://www.secretflying.com/posts/toronto-canada-to-the-dominican-republic-for-only-359-cad-roundtrip/",
       "note": "Published fare lead. Confirm dates, baggage and final price on the airline checkout."
-    },
-    {
-      "id": "dc5584b61852743f8e5a",
-      "airport": "YVR",
-      "region": "Asia",
-      "kind": "cash",
-      "error_fare": false,
-      "route": "2026 23 August Vancouver to Thailand, Vietnam, or The Philippines - $674 roundtrip including taxes",
-      "title": "2026 23 August Vancouver to Thailand, Vietnam, or The Philippines - $674 roundtrip including taxes",
-      "price": 674,
-      "currency": "CAD",
-      "price_display": "$674 CAD",
-      "posted_at": "2026-09-11T00:00:00+00:00",
-      "posted_display": "Sep 11, 2026",
-      "source": "YVR Deals",
-      "url": "https://yvrdeals.com/vancouver-to-bangkok-thailand-674-roundtrip",
-      "note": "Travel availability: August, September, November, December 2026 January 2027. Confirm live inventory before paying."
     }
   ]
 }
