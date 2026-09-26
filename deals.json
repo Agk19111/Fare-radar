@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-25T21:35:48.995940+00:00",
-  "generated_display": "Sep 25, 2026 21:35 UTC",
-  "deal_count": 33,
+  "generated_at": "2026-09-26T04:59:16.782725+00:00",
+  "generated_display": "Sep 26, 2026 04:59 UTC",
+  "deal_count": 32,
   "source_errors": [],
   "deals": [
     {
@@ -547,23 +547,6 @@
       "source": "Secret Flying Vancouver",
       "url": "https://www.secretflying.com/posts/vancouver-canada-to-prague-czech-republic-for-only-528-cad-roundtrip/",
       "note": "Published fare lead. Confirm dates, baggage and final price on the airline checkout."
-    },
-    {
-      "id": "b0cf4b186d8140d91a6b",
-      "airport": "YYC",
-      "region": "Mexico",
-      "kind": "cash",
-      "error_fare": false,
-      "route": "2026 11 August Calgary to Costa Rica - $378 (CB) to $482 CAD roundtrip including taxes [Nonstop Flights]",
-      "title": "2026 11 August Calgary to Costa Rica - $378 (CB) to $482 CAD roundtrip including taxes [Nonstop Flights]",
-      "price": 378,
-      "currency": "CAD",
-      "price_display": "$378 CAD",
-      "posted_at": "2026-09-12T00:00:00+00:00",
-      "posted_display": "Sep 12, 2026",
-      "source": "YYC Deals",
-      "url": "https://yycdeals.com/calgary-to-costa-rica-572-roundtrip",
-      "note": "Travel availability: August, September, October, November, December 2026. Confirm live inventory before paying."
     }
   ]
 }
