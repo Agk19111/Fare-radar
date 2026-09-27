@@ -1,9 +1,26 @@
 {
-  "generated_at": "2026-09-27T17:03:43.324326+00:00",
-  "generated_display": "Sep 27, 2026 17:03 UTC",
-  "deal_count": 32,
+  "generated_at": "2026-09-27T21:22:16.262747+00:00",
+  "generated_display": "Sep 27, 2026 21:22 UTC",
+  "deal_count": 33,
   "source_errors": [],
   "deals": [
+    {
+      "id": "e3c943cf519bee22072a",
+      "airport": "YYZ",
+      "region": "India",
+      "kind": "cash",
+      "error_fare": false,
+      "route": "Toronto, Canada to Dhaka, Bangladesh for only $843 CAD roundtrip",
+      "title": "Toronto, Canada to Dhaka, Bangladesh for only $843 CAD roundtrip",
+      "price": 843,
+      "currency": "CAD",
+      "price_display": "$843 CAD",
+      "posted_at": "2026-09-27T16:56:09+00:00",
+      "posted_display": "Sep 27, 2026",
+      "source": "Secret Flying Canada",
+      "url": "https://www.secretflying.com/posts/toronto-canada-to-dhaka-bangladesh-for-only-843-cad-roundtrip/",
+      "note": "Published fare lead. Confirm dates, baggage and final price on the airline checkout."
+    },
     {
       "id": "488297ce3ce19a25104e",
       "airport": "YYZ",
