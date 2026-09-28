@@ -1,9 +1,26 @@
 {
-  "generated_at": "2026-09-28T13:56:57.697045+00:00",
-  "generated_display": "Sep 28, 2026 13:56 UTC",
-  "deal_count": 35,
+  "generated_at": "2026-09-28T21:15:16.338582+00:00",
+  "generated_display": "Sep 28, 2026 21:15 UTC",
+  "deal_count": 36,
   "source_errors": [],
   "deals": [
+    {
+      "id": "6b769d316678f3d916b0",
+      "airport": "SEA",
+      "region": "USA",
+      "kind": "cash",
+      "error_fare": false,
+      "route": "Non-stop from San Francisco to Seattle (& vice versa) for only $147 roundtrip",
+      "title": "Non-stop from San Francisco to Seattle (& vice versa) for only $147 roundtrip",
+      "price": 147,
+      "currency": "USD",
+      "price_display": "$147 USD",
+      "posted_at": "2026-09-28T19:02:03+00:00",
+      "posted_display": "Sep 28, 2026",
+      "source": "Secret Flying Seattle",
+      "url": "https://www.secretflying.com/posts/non-stop-from-san-francisco-to-seattle-vice-versa-for-only-97-roundtrip/",
+      "note": "Published fare lead. Confirm dates, baggage and final price on the airline checkout."
+    },
     {
       "id": "7f9e6d701402702bf4be",
       "airport": "SEA",
