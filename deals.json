@@ -1,8 +1,12 @@
 {
-  "generated_at": "2026-09-28T21:15:16.338582+00:00",
-  "generated_display": "Sep 28, 2026 21:15 UTC",
-  "deal_count": 36,
-  "source_errors": [],
+  "generated_at": "2026-09-29T01:01:54.482385+00:00",
+  "generated_display": "Sep 29, 2026 01:01 UTC",
+  "deal_count": 35,
+  "source_errors": [
+    "YVR Deals: 403 Client Error: Forbidden for url: https://yvrdeals.com/",
+    "YYC Deals: 403 Client Error: Forbidden for url: https://www.yycdeals.com/",
+    "YYZ Deals: 403 Client Error: Forbidden for url: https://www.yyzdeals.com/"
+  ],
   "deals": [
     {
       "id": "6b769d316678f3d916b0",
@@ -598,23 +602,6 @@
       "source": "Secret Flying Vancouver",
       "url": "https://www.secretflying.com/posts/summer-vancouver-canada-to-european-cities-from-only-568-cad-roundtrip/",
       "note": "Published fare lead. Confirm dates, baggage and final price on the airline checkout."
-    },
-    {
-      "id": "2659f5c2b29c88174215",
-      "airport": "YYZ",
-      "region": "Europe",
-      "kind": "business",
-      "error_fare": false,
-      "route": "2026 19 August Toronto to Barcelona or Copenhagen in Business Class - $1811 CAD roundtrip including taxes",
-      "title": "2026 19 August Toronto to Barcelona or Copenhagen in Business Class - $1811 CAD roundtrip including taxes",
-      "price": 1811,
-      "currency": "CAD",
-      "price_display": "$1,811 CAD",
-      "posted_at": "2026-09-15T00:00:00+00:00",
-      "posted_display": "Sep 15, 2026",
-      "source": "YYZ Deals",
-      "url": "https://yyzdeals.com/toronto-to-barcelona-spain-1810-roundtrip",
-      "note": "Travel availability: August, September 2026. Confirm live inventory before paying."
     }
   ]
 }
