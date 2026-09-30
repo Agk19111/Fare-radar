@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-29T22:16:30.874712+00:00",
-  "generated_display": "Sep 29, 2026 22:16 UTC",
-  "deal_count": 35,
+  "generated_at": "2026-09-30T05:34:04.197878+00:00",
+  "generated_display": "Sep 30, 2026 05:34 UTC",
+  "deal_count": 34,
   "source_errors": [],
   "deals": [
     {
@@ -580,23 +580,6 @@
       "posted_display": "Sep 16, 2026",
       "source": "Secret Flying Vancouver",
       "url": "https://www.secretflying.com/posts/vancouver-canada-to-dublin-ireland-for-only-558-cad-roundtrip/",
-      "note": "Published fare lead. Confirm dates, baggage and final price on the airline checkout."
-    },
-    {
-      "id": "1ad94ec4c659c8851073",
-      "airport": "SEA",
-      "region": "USA",
-      "kind": "cash",
-      "error_fare": false,
-      "route": "Non-stop from Seattle to Salt Lake City, Utah (& vice versa) for only $137 roundtrip",
-      "title": "Non-stop from Seattle to Salt Lake City, Utah (& vice versa) for only $137 roundtrip",
-      "price": 137,
-      "currency": "USD",
-      "price_display": "$137 USD",
-      "posted_at": "2026-09-16T02:56:02+00:00",
-      "posted_display": "Sep 16, 2026",
-      "source": "Secret Flying Seattle",
-      "url": "https://www.secretflying.com/posts/seattle-to-salt-lake-city-utah-vice-versa-for-only-103-roundtrip/",
       "note": "Published fare lead. Confirm dates, baggage and final price on the airline checkout."
     }
   ]
