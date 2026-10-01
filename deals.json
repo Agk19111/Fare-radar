@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-01T10:10:02.144772+00:00",
-  "generated_display": "Oct 01, 2026 10:10 UTC",
-  "deal_count": 32,
+  "generated_at": "2026-10-01T18:26:23.400672+00:00",
+  "generated_display": "Oct 01, 2026 18:26 UTC",
+  "deal_count": 35,
   "source_errors": [],
   "deals": [
     {
@@ -343,6 +343,57 @@
       "source": "YVR Deals",
       "url": "https://yvrdeals.com/vancouver-to-bangkok-thailand-674-roundtrip",
       "note": "Travel availability: August, September, November, December 2026 January, February 2027. Confirm live inventory before paying."
+    },
+    {
+      "id": "556a9a7c6b12b96cd476",
+      "airport": "YVR",
+      "region": "Asia",
+      "kind": "cash",
+      "error_fare": false,
+      "route": "2026 21 September Vancouver to Tokyo, Japan - $679 to $954 CAD roundtrip [Nonstop Flights]",
+      "title": "2026 21 September Vancouver to Tokyo, Japan - $679 to $954 CAD roundtrip [Nonstop Flights]",
+      "price": 679,
+      "currency": "CAD",
+      "price_display": "$679–$954 CAD",
+      "posted_at": "2026-10-01T00:00:00+00:00",
+      "posted_display": "Oct 01, 2026",
+      "source": "YVR Deals",
+      "url": "https://yvrdeals.com/vancouver-to-tokyo-japan-954-roundtrip",
+      "note": "Travel availability: November, December 2026 January 2027. Confirm live inventory before paying."
+    },
+    {
+      "id": "27fef344c1eb18ebcfe3",
+      "airport": "YYZ",
+      "region": "Anywhere",
+      "kind": "business",
+      "error_fare": false,
+      "route": "2026 24 September Toronto to Ponta Delgada, Azores in Business Class - $2086 CAD roundtrip including taxes",
+      "title": "2026 24 September Toronto to Ponta Delgada, Azores in Business Class - $2086 CAD roundtrip including taxes",
+      "price": 2086,
+      "currency": "CAD",
+      "price_display": "$2,086 CAD",
+      "posted_at": "2026-10-01T00:00:00+00:00",
+      "posted_display": "Oct 01, 2026",
+      "source": "YYZ Deals",
+      "url": "https://yyzdeals.com/toronto-to-ponta-delgada-azores-business-class-2086-roundtrip",
+      "note": "Travel availability: November 2026 January, February, March, April, May, June, July, August 2027. Confirm live inventory before paying."
+    },
+    {
+      "id": "26aa4f8d06b62d887f6f",
+      "airport": "YYZ",
+      "region": "Anywhere",
+      "kind": "business",
+      "error_fare": false,
+      "route": "2026 21 September Toronto to La Paz, Bolivia in Business Class - $1286 CAD roundtrip including taxes",
+      "title": "2026 21 September Toronto to La Paz, Bolivia in Business Class - $1286 CAD roundtrip including taxes",
+      "price": 1286,
+      "currency": "CAD",
+      "price_display": "$1,286 CAD",
+      "posted_at": "2026-10-01T00:00:00+00:00",
+      "posted_display": "Oct 01, 2026",
+      "source": "YYZ Deals",
+      "url": "https://yyzdeals.com/toronto-to-la-paz-bolivia-in-business-class-1286-roundtrip",
+      "note": "Travel availability: April 2027. Confirm live inventory before paying."
     },
     {
       "id": "81f2d8799d1caa27418a",
