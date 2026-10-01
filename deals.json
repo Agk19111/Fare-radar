@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-30T20:02:09.703880+00:00",
-  "generated_display": "Sep 30, 2026 20:02 UTC",
-  "deal_count": 33,
+  "generated_at": "2026-10-01T00:34:12.908311+00:00",
+  "generated_display": "Oct 01, 2026 00:34 UTC",
+  "deal_count": 32,
   "source_errors": [],
   "deals": [
     {
@@ -547,23 +547,6 @@
       "source": "Secret Flying Canada",
       "url": "https://www.secretflying.com/posts/toronto-canada-to-aruba-for-only-409-cad-roundtrip/",
       "note": "Published fare lead. Confirm dates, baggage and final price on the airline checkout."
-    },
-    {
-      "id": "e946b288ee4cbd3a8c46",
-      "airport": "YYZ",
-      "region": "Anywhere",
-      "kind": "business",
-      "error_fare": false,
-      "route": "2026 19 August Toronto to Amman, Jordan in Business Class on Qatar Airways - $2466 CAD roundtrip including taxes",
-      "title": "2026 19 August Toronto to Amman, Jordan in Business Class on Qatar Airways - $2466 CAD roundtrip including taxes",
-      "price": 2466,
-      "currency": "CAD",
-      "price_display": "$2,466 CAD",
-      "posted_at": "2026-09-17T00:00:00+00:00",
-      "posted_display": "Sep 17, 2026",
-      "source": "YYZ Deals",
-      "url": "https://yyzdeals.com/toronto-to-amman-jordan-business-class-qatar-airways-2466-roundtrip",
-      "note": "Travel availability: November 2026 January, February 2027. Confirm live inventory before paying."
     }
   ]
 }
