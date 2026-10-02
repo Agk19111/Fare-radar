@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-01T18:26:23.400672+00:00",
-  "generated_display": "Oct 01, 2026 18:26 UTC",
+  "generated_at": "2026-10-02T00:48:27.921601+00:00",
+  "generated_display": "Oct 02, 2026 00:48 UTC",
   "deal_count": 35,
   "source_errors": [],
   "deals": [
@@ -350,8 +350,8 @@
       "region": "Asia",
       "kind": "cash",
       "error_fare": false,
-      "route": "2026 21 September Vancouver to Tokyo, Japan - $679 to $954 CAD roundtrip [Nonstop Flights]",
-      "title": "2026 21 September Vancouver to Tokyo, Japan - $679 to $954 CAD roundtrip [Nonstop Flights]",
+      "route": "2026 26 September Vancouver to Tokyo, Japan - $679 to $954 CAD roundtrip [Nonstop Flights]",
+      "title": "2026 26 September Vancouver to Tokyo, Japan - $679 to $954 CAD roundtrip [Nonstop Flights]",
       "price": 679,
       "currency": "CAD",
       "price_display": "$679–$954 CAD",
