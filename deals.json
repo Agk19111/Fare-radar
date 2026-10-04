@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-04T12:23:11.403666+00:00",
-  "generated_display": "Oct 04, 2026 12:23 UTC",
+  "generated_at": "2026-10-04T18:39:12.951362+00:00",
+  "generated_display": "Oct 04, 2026 18:39 UTC",
   "deal_count": 35,
   "source_errors": [],
   "deals": [
@@ -10,8 +10,8 @@
       "region": "Asia",
       "kind": "cash",
       "error_fare": false,
-      "route": "2026 10 September Vancouver to Qingdao, China - $749 to $800 CAD roundtrip including taxes | Non-Stop Flights",
-      "title": "2026 10 September Vancouver to Qingdao, China - $749 to $800 CAD roundtrip including taxes | Non-Stop Flights",
+      "route": "2026 21 September Vancouver to Qingdao, China - $749 to $800 CAD roundtrip including taxes | Non-Stop Flights",
+      "title": "2026 21 September Vancouver to Qingdao, China - $749 to $800 CAD roundtrip including taxes | Non-Stop Flights",
       "price": 749,
       "currency": "CAD",
       "price_display": "$749–$800 CAD",
