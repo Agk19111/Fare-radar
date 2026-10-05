@@ -1,9 +1,26 @@
 {
-  "generated_at": "2026-10-05T14:40:36.148591+00:00",
-  "generated_display": "Oct 05, 2026 14:40 UTC",
-  "deal_count": 35,
+  "generated_at": "2026-10-05T22:01:58.431307+00:00",
+  "generated_display": "Oct 05, 2026 22:01 UTC",
+  "deal_count": 36,
   "source_errors": [],
   "deals": [
+    {
+      "id": "576412565568c3e6a80b",
+      "airport": "YVR",
+      "region": "Asia",
+      "kind": "cash",
+      "error_fare": false,
+      "route": "Non-stop from Vancouver, Canada to Tokyo, Japan for only $670 CAD roundtrip",
+      "title": "Non-stop from Vancouver, Canada to Tokyo, Japan for only $670 CAD roundtrip",
+      "price": 670,
+      "currency": "CAD",
+      "price_display": "$670 CAD",
+      "posted_at": "2026-10-05T13:46:26+00:00",
+      "posted_display": "Oct 05, 2026",
+      "source": "Secret Flying Vancouver",
+      "url": "https://www.secretflying.com/posts/vancouver-canada-tokyo-japan-567-cad-roundtrip/",
+      "note": "Published fare lead. Confirm dates, baggage and final price on the airline checkout."
+    },
     {
       "id": "b605629195e76230e031",
       "airport": "YVR",
@@ -345,6 +362,23 @@
       "note": "Travel availability: April 2027. Confirm live inventory before paying."
     },
     {
+      "id": "e946b288ee4cbd3a8c46",
+      "airport": "YYZ",
+      "region": "Anywhere",
+      "kind": "business",
+      "error_fare": false,
+      "route": "2026 23 September Toronto to Amman, Jordan in Business Class on Qatar Airways - $2466 CAD roundtrip including taxes",
+      "title": "2026 23 September Toronto to Amman, Jordan in Business Class on Qatar Airways - $2466 CAD roundtrip including taxes",
+      "price": 2466,
+      "currency": "CAD",
+      "price_display": "$2,466 CAD",
+      "posted_at": "2026-10-05T00:00:00+00:00",
+      "posted_display": "Oct 05, 2026",
+      "source": "YYZ Deals",
+      "url": "https://yyzdeals.com/toronto-to-amman-jordan-business-class-qatar-airways-2466-roundtrip",
+      "note": "Travel availability: November 2026 January, February 2027. Confirm live inventory before paying."
+    },
+    {
       "id": "461ff18e80df332b1371",
       "airport": "YVR",
       "region": "Mexico",
@@ -581,23 +615,6 @@
       "source": "YVR Deals",
       "url": "https://yvrdeals.com/vancouver-to-leon-mexico-472-roundtrip",
       "note": "Travel availability: October, November, December 2026. Confirm live inventory before paying."
-    },
-    {
-      "id": "5028d1abf4ddf8ffdaf7",
-      "airport": "YYZ",
-      "region": "Mexico",
-      "kind": "cash",
-      "error_fare": false,
-      "route": "Non-stop from Toronto, Canada to Aruba for only $308 CAD roundtrip",
-      "title": "Non-stop from Toronto, Canada to Aruba for only $308 CAD roundtrip",
-      "price": 308,
-      "currency": "CAD",
-      "price_display": "$308 CAD",
-      "posted_at": "2026-09-21T15:24:02+00:00",
-      "posted_display": "Sep 21, 2026",
-      "source": "Secret Flying Canada",
-      "url": "https://www.secretflying.com/posts/toronto-canada-to-aruba-for-only-409-cad-roundtrip/",
-      "note": "Published fare lead. Confirm dates, baggage and final price on the airline checkout."
     }
   ]
 }
