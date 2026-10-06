@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-06T06:22:18.427368+00:00",
-  "generated_display": "Oct 06, 2026 06:22 UTC",
+  "generated_at": "2026-10-06T15:58:13.644743+00:00",
+  "generated_display": "Oct 06, 2026 15:58 UTC",
   "deal_count": 36,
   "source_errors": [],
   "deals": [
@@ -27,8 +27,8 @@
       "region": "Europe",
       "kind": "cash",
       "error_fare": false,
-      "route": "2026 9 September Vancouver (and other cities in B.C.) to Paris, France - $525 to $614 CAD roundtrip including taxes",
-      "title": "2026 9 September Vancouver (and other cities in B.C.) to Paris, France - $525 to $614 CAD roundtrip including taxes",
+      "route": "2026 23 September Vancouver (and other cities in B.C.) to Paris, France - $525 to $614 CAD roundtrip including taxes",
+      "title": "2026 23 September Vancouver (and other cities in B.C.) to Paris, France - $525 to $614 CAD roundtrip including taxes",
       "price": 525,
       "currency": "CAD",
       "price_display": "$525–$614 CAD",
