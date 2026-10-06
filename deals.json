@@ -1,9 +1,26 @@
 {
-  "generated_at": "2026-10-06T15:58:13.644743+00:00",
-  "generated_display": "Oct 06, 2026 15:58 UTC",
-  "deal_count": 36,
+  "generated_at": "2026-10-06T22:40:03.426617+00:00",
+  "generated_display": "Oct 06, 2026 22:40 UTC",
+  "deal_count": 37,
   "source_errors": [],
   "deals": [
+    {
+      "id": "e9b59f6408e232624c41",
+      "airport": "SEA",
+      "region": "USA",
+      "kind": "cash",
+      "error_fare": false,
+      "route": "Non-stop from Seattle to Denver, Colorado (& vice versa) for only $157 roundtrip",
+      "title": "Non-stop from Seattle to Denver, Colorado (& vice versa) for only $157 roundtrip",
+      "price": 157,
+      "currency": "USD",
+      "price_display": "$157 USD",
+      "posted_at": "2026-10-06T16:26:02+00:00",
+      "posted_display": "Oct 06, 2026",
+      "source": "Secret Flying Seattle",
+      "url": "https://www.secretflying.com/posts/seattle-denver-vice-versa-86-roundtrip/",
+      "note": "Published fare lead. Confirm dates, baggage and final price on the airline checkout."
+    },
     {
       "id": "b605629195e76230e031",
       "airport": "YVR",
