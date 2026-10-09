@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-08T18:51:48.628210+00:00",
-  "generated_display": "Oct 08, 2026 18:51 UTC",
-  "deal_count": 40,
+  "generated_at": "2026-10-09T01:14:11.256200+00:00",
+  "generated_display": "Oct 09, 2026 01:14 UTC",
+  "deal_count": 39,
   "source_errors": [],
   "deals": [
     {
@@ -328,6 +328,23 @@
       "note": "Travel availability: November 2026 January, February 2027. Confirm live inventory before paying."
     },
     {
+      "id": "09946ddb07a114a32f34",
+      "airport": "YYC",
+      "region": "Europe",
+      "kind": "cash",
+      "error_fare": false,
+      "route": "2026 5 October Calgary to Barcelona, Spain - $547 to $632 CAD roundtrip including taxes | Nonstop Flights",
+      "title": "2026 5 October Calgary to Barcelona, Spain - $547 to $632 CAD roundtrip including taxes | Nonstop Flights",
+      "price": 547,
+      "currency": "CAD",
+      "price_display": "$547–$632 CAD",
+      "posted_at": "2026-10-08T00:00:00+00:00",
+      "posted_display": "Oct 08, 2026",
+      "source": "YYC Deals",
+      "url": "https://yycdeals.com/calgary-to-barcelona-spain-641-roundtrip",
+      "note": "Travel availability: September, October 2026. Confirm live inventory before paying."
+    },
+    {
       "id": "1ad94ec4c659c8851073",
       "airport": "SEA",
       "region": "USA",
@@ -411,23 +428,6 @@
       "source": "Secret Flying Seattle",
       "url": "https://www.secretflying.com/posts/seattle-denver-vice-versa-86-roundtrip/",
       "note": "Published fare lead. Confirm dates, baggage and final price on the airline checkout."
-    },
-    {
-      "id": "09946ddb07a114a32f34",
-      "airport": "YYC",
-      "region": "Europe",
-      "kind": "cash",
-      "error_fare": false,
-      "route": "2026 2 September Calgary to Barcelona, Spain - $547 to $632 CAD roundtrip including taxes | Nonstop Flights",
-      "title": "2026 2 September Calgary to Barcelona, Spain - $547 to $632 CAD roundtrip including taxes | Nonstop Flights",
-      "price": 547,
-      "currency": "CAD",
-      "price_display": "$547–$632 CAD",
-      "posted_at": "2026-10-06T00:00:00+00:00",
-      "posted_display": "Oct 06, 2026",
-      "source": "YYC Deals",
-      "url": "https://yycdeals.com/calgary-to-barcelona-spain-641-roundtrip",
-      "note": "Travel availability: September, October 2026. Confirm live inventory before paying."
     },
     {
       "id": "576412565568c3e6a80b",
@@ -666,23 +666,6 @@
       "source": "YYZ Deals",
       "url": "https://yyzdeals.com/toronto-to-oranjestad-aruba-393-roundtrip",
       "note": "Travel availability: January, February, March, April 2027. Confirm live inventory before paying."
-    },
-    {
-      "id": "65f49e88a4b849a46852",
-      "airport": "YVR",
-      "region": "Europe",
-      "kind": "cash",
-      "error_fare": false,
-      "route": "2026 25 August Vancouver to Reykjavik, Iceland - $587 to $687 CAD roundtrip including taxes [Nonstop Flights]",
-      "title": "2026 25 August Vancouver to Reykjavik, Iceland - $587 to $687 CAD roundtrip including taxes [Nonstop Flights]",
-      "price": 587,
-      "currency": "CAD",
-      "price_display": "$587–$687 CAD",
-      "posted_at": "2026-09-25T00:00:00+00:00",
-      "posted_display": "Sep 25, 2026",
-      "source": "YVR Deals",
-      "url": "https://yvrdeals.com/vancouver-to-reykjavik-iceland-587-roundtrip-1",
-      "note": "Travel availability: September, October, November, December 2026 January, February 2027. Confirm live inventory before paying."
     }
   ]
 }
