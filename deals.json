@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-09T10:34:56.765910+00:00",
-  "generated_display": "Oct 09, 2026 10:34 UTC",
+  "generated_at": "2026-10-09T18:22:07.634398+00:00",
+  "generated_display": "Oct 09, 2026 18:22 UTC",
   "deal_count": 39,
   "source_errors": [],
   "deals": [
@@ -146,8 +146,8 @@
       "region": "Europe",
       "kind": "cash",
       "error_fare": false,
-      "route": "2026 3 October Calgary to Paris, France - $586 to $603 CAD roundtrip including taxes [Nonstop Flights]",
-      "title": "2026 3 October Calgary to Paris, France - $586 to $603 CAD roundtrip including taxes [Nonstop Flights]",
+      "route": "2026 8 October Calgary to Paris, France - $586 to $603 CAD roundtrip including taxes [Nonstop Flights]",
+      "title": "2026 8 October Calgary to Paris, France - $586 to $603 CAD roundtrip including taxes [Nonstop Flights]",
       "price": 586,
       "currency": "CAD",
       "price_display": "$586–$603 CAD",
