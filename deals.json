@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-10T21:45:33.452319+00:00",
-  "generated_display": "Oct 10, 2026 21:45 UTC",
-  "deal_count": 40,
+  "generated_at": "2026-10-11T05:48:19.030655+00:00",
+  "generated_display": "Oct 11, 2026 05:48 UTC",
+  "deal_count": 39,
   "source_errors": [],
   "deals": [
     {
@@ -666,23 +666,6 @@
       "source": "Secret Flying Canada",
       "url": "https://www.secretflying.com/posts/toronto-canada-to-kathmandu-nepal-for-only-760-cad-roundtrip/",
       "note": "Published fare lead. Confirm dates, baggage and final price on the airline checkout."
-    },
-    {
-      "id": "07ef8f20f912bf4ae86e",
-      "airport": "YYZ",
-      "region": "Mexico",
-      "kind": "cash",
-      "error_fare": false,
-      "route": "2026 24 August Toronto to Aruba - $293 to $393 CAD roundtrip including taxes [Nonstop Flights]",
-      "title": "2026 24 August Toronto to Aruba - $293 to $393 CAD roundtrip including taxes [Nonstop Flights]",
-      "price": 293,
-      "currency": "CAD",
-      "price_display": "$293–$393 CAD",
-      "posted_at": "2026-09-27T00:00:00+00:00",
-      "posted_display": "Sep 27, 2026",
-      "source": "YYZ Deals",
-      "url": "https://yyzdeals.com/toronto-to-oranjestad-aruba-393-roundtrip",
-      "note": "Travel availability: January, February, March, April 2027. Confirm live inventory before paying."
     }
   ]
 }
