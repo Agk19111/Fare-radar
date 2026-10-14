@@ -1,9 +1,26 @@
 {
-  "generated_at": "2026-10-14T14:31:37.158704+00:00",
-  "generated_display": "Oct 14, 2026 14:31 UTC",
+  "generated_at": "2026-10-14T19:25:12.460156+00:00",
+  "generated_display": "Oct 14, 2026 19:25 UTC",
   "deal_count": 33,
   "source_errors": [],
   "deals": [
+    {
+      "id": "acace9de5ac7b450dec7",
+      "airport": "SEA",
+      "region": "Europe",
+      "kind": "cash",
+      "error_fare": false,
+      "route": "Seattle to Stockholm, Sweden for only $397 roundtrip",
+      "title": "Seattle to Stockholm, Sweden for only $397 roundtrip",
+      "price": 397,
+      "currency": "USD",
+      "price_display": "$397 USD",
+      "posted_at": "2026-10-14T15:24:04+00:00",
+      "posted_display": "Oct 14, 2026",
+      "source": "Secret Flying Seattle",
+      "url": "https://www.secretflying.com/posts/seattle-sweden-norway-423-roundtrip/",
+      "note": "Published fare lead. Confirm dates, baggage and final price on the airline checkout."
+    },
     {
       "id": "b605629195e76230e031",
       "airport": "YVR",
@@ -231,8 +248,8 @@
       "region": "Asia",
       "kind": "cash",
       "error_fare": false,
-      "route": "2026 3 October Vancouver to Thailand, Vietnam, or The Philippines - $674 roundtrip including taxes",
-      "title": "2026 3 October Vancouver to Thailand, Vietnam, or The Philippines - $674 roundtrip including taxes",
+      "route": "2026 13 October Vancouver to Thailand, Vietnam, or The Philippines - $674 roundtrip including taxes",
+      "title": "2026 13 October Vancouver to Thailand, Vietnam, or The Philippines - $674 roundtrip including taxes",
       "price": 674,
       "currency": "CAD",
       "price_display": "$674 CAD",
@@ -342,23 +359,6 @@
       "posted_display": "Oct 13, 2026",
       "source": "Secret Flying Vancouver",
       "url": "https://www.secretflying.com/posts/vancouver-canada-cancun-mexico-352-cad-roundtrip/",
-      "note": "Published fare lead. Confirm dates, baggage and final price on the airline checkout."
-    },
-    {
-      "id": "acace9de5ac7b450dec7",
-      "airport": "SEA",
-      "region": "Europe",
-      "kind": "cash",
-      "error_fare": false,
-      "route": "Seattle to Stockholm, Sweden for only $449 roundtrip",
-      "title": "Seattle to Stockholm, Sweden for only $449 roundtrip",
-      "price": 449,
-      "currency": "USD",
-      "price_display": "$449 USD",
-      "posted_at": "2026-10-12T17:01:04+00:00",
-      "posted_display": "Oct 12, 2026",
-      "source": "Secret Flying Seattle",
-      "url": "https://www.secretflying.com/posts/seattle-sweden-norway-423-roundtrip/",
       "note": "Published fare lead. Confirm dates, baggage and final price on the airline checkout."
     },
     {
