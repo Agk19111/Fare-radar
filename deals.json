@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-14T23:55:39.942307+00:00",
-  "generated_display": "Oct 14, 2026 23:55 UTC",
-  "deal_count": 33,
+  "generated_at": "2026-10-15T04:40:40.117107+00:00",
+  "generated_display": "Oct 15, 2026 04:40 UTC",
+  "deal_count": 31,
   "source_errors": [],
   "deals": [
     {
@@ -530,40 +530,6 @@
       "source": "YVR Deals",
       "url": "https://yvrdeals.com/vancouver-to-cancun-mexico-446-roundtrip",
       "note": "Travel availability: November, December 2026. Confirm live inventory before paying."
-    },
-    {
-      "id": "db2bbc190bfae7b251a8",
-      "airport": "YYC",
-      "region": "Mexico",
-      "kind": "cash",
-      "error_fare": false,
-      "route": "2026 14 August Calgary to Belize - $384 (CB) to $475 CAD roundtrip including taxes [Nonstop Flights]",
-      "title": "2026 14 August Calgary to Belize - $384 (CB) to $475 CAD roundtrip including taxes [Nonstop Flights]",
-      "price": 384,
-      "currency": "CAD",
-      "price_display": "$384 CAD",
-      "posted_at": "2026-10-01T00:00:00+00:00",
-      "posted_display": "Oct 01, 2026",
-      "source": "YYC Deals",
-      "url": "https://yycdeals.com/calgary-to-belize-503-roundtrip",
-      "note": "Travel availability: November, December 2026. Confirm live inventory before paying."
-    },
-    {
-      "id": "390bcb8319d82c7a9b61",
-      "airport": "YYZ",
-      "region": "Europe",
-      "kind": "cash",
-      "error_fare": false,
-      "route": "2026 5 September Toronto to Lisbon, Portugal or Barcelona, Spain - $449 to $478 CAD roundtrip including taxes",
-      "title": "2026 5 September Toronto to Lisbon, Portugal or Barcelona, Spain - $449 to $478 CAD roundtrip including taxes",
-      "price": 449,
-      "currency": "CAD",
-      "price_display": "$449–$478 CAD",
-      "posted_at": "2026-10-01T00:00:00+00:00",
-      "posted_display": "Oct 01, 2026",
-      "source": "YYZ Deals",
-      "url": "https://yyzdeals.com/toronto-to-barcelona-spain-476-roundtrip",
-      "note": "Travel availability: November, December 2026 January, February 2027. Confirm live inventory before paying."
     }
   ]
 }
