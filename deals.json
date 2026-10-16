@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-15T21:23:56.823306+00:00",
-  "generated_display": "Oct 15, 2026 21:23 UTC",
-  "deal_count": 33,
+  "generated_at": "2026-10-16T04:33:39.120800+00:00",
+  "generated_display": "Oct 16, 2026 04:33 UTC",
+  "deal_count": 32,
   "source_errors": [],
   "deals": [
     {
@@ -112,8 +112,8 @@
       "region": "Europe",
       "kind": "cash",
       "error_fare": false,
-      "route": "2026 12 October Calgary to Rome, Italy - $575 to $624 CAD roundtrip including taxes [Nonstop Flights]",
-      "title": "2026 12 October Calgary to Rome, Italy - $575 to $624 CAD roundtrip including taxes [Nonstop Flights]",
+      "route": "2026 9 October Calgary to Rome, Italy - $575 to $624 CAD roundtrip including taxes [Nonstop Flights]",
+      "title": "2026 9 October Calgary to Rome, Italy - $575 to $624 CAD roundtrip including taxes [Nonstop Flights]",
       "price": 575,
       "currency": "CAD",
       "price_display": "$575–$624 CAD",
@@ -163,8 +163,8 @@
       "region": "Europe",
       "kind": "cash",
       "error_fare": false,
-      "route": "2026 8 October Calgary to Paris, France - $586 to $603 CAD roundtrip including taxes [Nonstop Flights]",
-      "title": "2026 8 October Calgary to Paris, France - $586 to $603 CAD roundtrip including taxes [Nonstop Flights]",
+      "route": "2026 13 October Calgary to Paris, France - $586 to $603 CAD roundtrip including taxes [Nonstop Flights]",
+      "title": "2026 13 October Calgary to Paris, France - $586 to $603 CAD roundtrip including taxes [Nonstop Flights]",
       "price": 586,
       "currency": "CAD",
       "price_display": "$586–$603 CAD",
@@ -350,8 +350,8 @@
       "region": "Mexico",
       "kind": "cash",
       "error_fare": false,
-      "route": "2026 6 October Calgary to Cancun, Mexico - $338 to $478 CAD roundtrip including taxes [Nonstop Flights]",
-      "title": "2026 6 October Calgary to Cancun, Mexico - $338 to $478 CAD roundtrip including taxes [Nonstop Flights]",
+      "route": "2026 11 October Calgary to Cancun, Mexico - $338 to $478 CAD roundtrip including taxes [Nonstop Flights]",
+      "title": "2026 11 October Calgary to Cancun, Mexico - $338 to $478 CAD roundtrip including taxes [Nonstop Flights]",
       "price": 338,
       "currency": "CAD",
       "price_display": "$338–$478 CAD",
@@ -547,23 +547,6 @@
       "source": "YYZ Deals",
       "url": "https://yyzdeals.com/toronto-to-costa-rica-391-roundtrip",
       "note": "Travel availability: October, November, December 2026. Confirm live inventory before paying."
-    },
-    {
-      "id": "461ff18e80df332b1371",
-      "airport": "YVR",
-      "region": "Mexico",
-      "kind": "cash",
-      "error_fare": false,
-      "route": "2026 29 August Vancouver to Cancun, Mexico - $446 CAD roundtrip including taxes [Nonstop Flights]",
-      "title": "2026 29 August Vancouver to Cancun, Mexico - $446 CAD roundtrip including taxes [Nonstop Flights]",
-      "price": 446,
-      "currency": "CAD",
-      "price_display": "$446 CAD",
-      "posted_at": "2026-10-02T00:00:00+00:00",
-      "posted_display": "Oct 02, 2026",
-      "source": "YVR Deals",
-      "url": "https://yvrdeals.com/vancouver-to-cancun-mexico-446-roundtrip",
-      "note": "Travel availability: November, December 2026. Confirm live inventory before paying."
     }
   ]
 }
