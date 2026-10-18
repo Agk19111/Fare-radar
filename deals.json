@@ -1,9 +1,26 @@
 {
-  "generated_at": "2026-10-18T15:53:37.905941+00:00",
-  "generated_display": "Oct 18, 2026 15:53 UTC",
-  "deal_count": 32,
+  "generated_at": "2026-10-18T20:44:29.191845+00:00",
+  "generated_display": "Oct 18, 2026 20:44 UTC",
+  "deal_count": 33,
   "source_errors": [],
   "deals": [
+    {
+      "id": "74228dc9d24888be43ce",
+      "airport": "SEA",
+      "region": "Europe",
+      "kind": "cash",
+      "error_fare": false,
+      "route": "Seattle to Oslo, Norway for only $440 roundtrip",
+      "title": "Seattle to Oslo, Norway for only $440 roundtrip",
+      "price": 440,
+      "currency": "USD",
+      "price_display": "$440 USD",
+      "posted_at": "2026-10-18T18:44:02+00:00",
+      "posted_display": "Oct 18, 2026",
+      "source": "Secret Flying Seattle",
+      "url": "https://www.secretflying.com/posts/seattle-to-oslo-norway-for-only-474-roundtrip/",
+      "note": "Published fare lead. Confirm dates, baggage and final price on the airline checkout."
+    },
     {
       "id": "b605629195e76230e031",
       "airport": "YVR",
