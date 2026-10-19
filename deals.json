@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-18T23:13:47.320456+00:00",
-  "generated_display": "Oct 18, 2026 23:13 UTC",
-  "deal_count": 33,
+  "generated_at": "2026-10-19T04:41:47.804244+00:00",
+  "generated_display": "Oct 19, 2026 04:41 UTC",
+  "deal_count": 32,
   "source_errors": [],
   "deals": [
     {
@@ -547,23 +547,6 @@
       "source": "Secret Flying Vancouver",
       "url": "https://www.secretflying.com/posts/vancouver-canada-tokyo-japan-567-cad-roundtrip/",
       "note": "Published fare lead. Confirm dates, baggage and final price on the airline checkout."
-    },
-    {
-      "id": "0bb57a6ccbcc29fd58a2",
-      "airport": "YYZ",
-      "region": "Mexico",
-      "kind": "cash",
-      "error_fare": false,
-      "route": "2026 9 September Toronto to Costa Rica - $273 to $425 CAD roundtrip including taxes [Nonstop Flights]",
-      "title": "2026 9 September Toronto to Costa Rica - $273 to $425 CAD roundtrip including taxes [Nonstop Flights]",
-      "price": 273,
-      "currency": "CAD",
-      "price_display": "$273–$425 CAD",
-      "posted_at": "2026-10-05T00:00:00+00:00",
-      "posted_display": "Oct 05, 2026",
-      "source": "YYZ Deals",
-      "url": "https://yyzdeals.com/toronto-to-costa-rica-391-roundtrip",
-      "note": "Travel availability: October, November, December 2026. Confirm live inventory before paying."
     }
   ]
 }
