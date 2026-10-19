@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-19T13:17:17.273756+00:00",
-  "generated_display": "Oct 19, 2026 13:17 UTC",
+  "generated_at": "2026-10-19T20:36:10.911044+00:00",
+  "generated_display": "Oct 19, 2026 20:36 UTC",
   "deal_count": 32,
   "source_errors": [],
   "deals": [
@@ -277,6 +277,23 @@
       "note": "Travel availability: January, February 2027. Confirm live inventory before paying."
     },
     {
+      "id": "29d5ca0ccf27c4cdfe62",
+      "airport": "YYJ",
+      "region": "Asia",
+      "kind": "business",
+      "error_fare": false,
+      "route": "2026 22 September Vancouver or Victoria to Japan, South Korea, or SE Asia in Business Class - $2388 to $2788 CAD roundtrip including taxes",
+      "title": "2026 22 September Vancouver or Victoria to Japan, South Korea, or SE Asia in Business Class - $2388 to $2788 CAD roundtrip including taxes",
+      "price": 2388,
+      "currency": "CAD",
+      "price_display": "$2,388–$2,788 CAD",
+      "posted_at": "2026-10-19T00:00:00+00:00",
+      "posted_display": "Oct 19, 2026",
+      "source": "YVR Deals",
+      "url": "https://yvrdeals.com/vancouver-to-tokyo-japan-business-class-2388-roundtrip",
+      "note": "Travel availability: September, November, December 2026 April, May, June, July, August 2027. Confirm live inventory before paying."
+    },
+    {
       "id": "74228dc9d24888be43ce",
       "airport": "SEA",
       "region": "Europe",
@@ -529,23 +546,6 @@
       "posted_display": "Oct 06, 2026",
       "source": "Secret Flying Seattle",
       "url": "https://www.secretflying.com/posts/seattle-denver-vice-versa-86-roundtrip/",
-      "note": "Published fare lead. Confirm dates, baggage and final price on the airline checkout."
-    },
-    {
-      "id": "576412565568c3e6a80b",
-      "airport": "YVR",
-      "region": "Asia",
-      "kind": "cash",
-      "error_fare": false,
-      "route": "Non-stop from Vancouver, Canada to Tokyo, Japan for only $670 CAD roundtrip",
-      "title": "Non-stop from Vancouver, Canada to Tokyo, Japan for only $670 CAD roundtrip",
-      "price": 670,
-      "currency": "CAD",
-      "price_display": "$670 CAD",
-      "posted_at": "2026-10-05T13:46:26+00:00",
-      "posted_display": "Oct 05, 2026",
-      "source": "Secret Flying Vancouver",
-      "url": "https://www.secretflying.com/posts/vancouver-canada-tokyo-japan-567-cad-roundtrip/",
       "note": "Published fare lead. Confirm dates, baggage and final price on the airline checkout."
     }
   ]
