@@ -1,9 +1,43 @@
 {
-  "generated_at": "2026-10-20T14:19:24.357005+00:00",
-  "generated_display": "Oct 20, 2026 14:19 UTC",
+  "generated_at": "2026-10-20T19:18:07.531379+00:00",
+  "generated_display": "Oct 20, 2026 19:18 UTC",
   "deal_count": 32,
   "source_errors": [],
   "deals": [
+    {
+      "id": "1b10550992eade476d74",
+      "airport": "YYZ",
+      "region": "USA",
+      "kind": "cash",
+      "error_fare": false,
+      "route": "Non-stop from Toronto, Canada to Fort Lauderdale, USA for only $226 CAD roundtrip",
+      "title": "Non-stop from Toronto, Canada to Fort Lauderdale, USA for only $226 CAD roundtrip",
+      "price": 226,
+      "currency": "CAD",
+      "price_display": "$226 CAD",
+      "posted_at": "2026-10-20T16:04:01+00:00",
+      "posted_display": "Oct 20, 2026",
+      "source": "Secret Flying Canada",
+      "url": "https://www.secretflying.com/posts/toronto-canada-fort-lauderdale-usa-233-cad-roundtrip/",
+      "note": "Published fare lead. Confirm dates, baggage and final price on the airline checkout."
+    },
+    {
+      "id": "4b762241792aaffb7c53",
+      "airport": "SEA",
+      "region": "Europe",
+      "kind": "cash",
+      "error_fare": false,
+      "route": "Seattle to Copenhagen, Denmark for only $461 roundtrip",
+      "title": "Seattle to Copenhagen, Denmark for only $461 roundtrip",
+      "price": 461,
+      "currency": "USD",
+      "price_display": "$461 USD",
+      "posted_at": "2026-10-20T15:21:02+00:00",
+      "posted_display": "Oct 20, 2026",
+      "source": "Secret Flying Seattle",
+      "url": "https://www.secretflying.com/posts/seattle-copenhagen-denmark-429-roundtrip/",
+      "note": "Published fare lead. Confirm dates, baggage and final price on the airline checkout."
+    },
     {
       "id": "b605629195e76230e031",
       "airport": "YVR",
@@ -430,23 +464,6 @@
       "note": "Published fare lead. Confirm dates, baggage and final price on the airline checkout."
     },
     {
-      "id": "4b762241792aaffb7c53",
-      "airport": "SEA",
-      "region": "Europe",
-      "kind": "cash",
-      "error_fare": false,
-      "route": "Seattle to Copenhagen, Denmark for only $479 roundtrip",
-      "title": "Seattle to Copenhagen, Denmark for only $479 roundtrip",
-      "price": 479,
-      "currency": "USD",
-      "price_display": "$479 USD",
-      "posted_at": "2026-10-10T03:56:02+00:00",
-      "posted_display": "Oct 10, 2026",
-      "source": "Secret Flying Seattle",
-      "url": "https://www.secretflying.com/posts/seattle-copenhagen-denmark-429-roundtrip/",
-      "note": "Published fare lead. Confirm dates, baggage and final price on the airline checkout."
-    },
-    {
       "id": "6b0e03bbfdd17177dcc4",
       "airport": "YYC",
       "region": "Mexico",
@@ -529,23 +546,6 @@
       "posted_display": "Oct 07, 2026",
       "source": "Secret Flying Seattle",
       "url": "https://www.secretflying.com/posts/seattle-los-angeles-vice-versa-86-roundtrip/",
-      "note": "Published fare lead. Confirm dates, baggage and final price on the airline checkout."
-    },
-    {
-      "id": "e9b59f6408e232624c41",
-      "airport": "SEA",
-      "region": "USA",
-      "kind": "cash",
-      "error_fare": false,
-      "route": "Non-stop from Seattle to Denver, Colorado (& vice versa) for only $157 roundtrip",
-      "title": "Non-stop from Seattle to Denver, Colorado (& vice versa) for only $157 roundtrip",
-      "price": 157,
-      "currency": "USD",
-      "price_display": "$157 USD",
-      "posted_at": "2026-10-06T16:26:02+00:00",
-      "posted_display": "Oct 06, 2026",
-      "source": "Secret Flying Seattle",
-      "url": "https://www.secretflying.com/posts/seattle-denver-vice-versa-86-roundtrip/",
       "note": "Published fare lead. Confirm dates, baggage and final price on the airline checkout."
     }
   ]
