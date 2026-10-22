@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-21T21:43:46.601058+00:00",
-  "generated_display": "Oct 21, 2026 21:43 UTC",
-  "deal_count": 28,
+  "generated_at": "2026-10-22T04:47:31.314337+00:00",
+  "generated_display": "Oct 22, 2026 04:47 UTC",
+  "deal_count": 27,
   "source_errors": [],
   "deals": [
     {
@@ -462,23 +462,6 @@
       "source": "Secret Flying Vancouver",
       "url": "https://www.secretflying.com/posts/vancouver-canada-cancun-mexico-352-cad-roundtrip/",
       "note": "Published fare lead. Confirm dates, baggage and final price on the airline checkout."
-    },
-    {
-      "id": "6b0e03bbfdd17177dcc4",
-      "airport": "YYC",
-      "region": "Mexico",
-      "kind": "cash",
-      "error_fare": false,
-      "route": "2026 3 September Calgary to Huatulco, Mexico - $353 to $498 CAD roundtrip including taxes [Nonstop Flights]",
-      "title": "2026 3 September Calgary to Huatulco, Mexico - $353 to $498 CAD roundtrip including taxes [Nonstop Flights]",
-      "price": 353,
-      "currency": "CAD",
-      "price_display": "$353–$498 CAD",
-      "posted_at": "2026-10-08T00:00:00+00:00",
-      "posted_display": "Oct 08, 2026",
-      "source": "YYC Deals",
-      "url": "https://yycdeals.com/calgary-to-huatulco-mexico-538-roundtrip",
-      "note": "Travel availability: November, December 2026. Confirm live inventory before paying."
     }
   ]
 }
