@@ -1,9 +1,26 @@
 {
-  "generated_at": "2026-10-22T11:53:54.135573+00:00",
-  "generated_display": "Oct 22, 2026 11:53 UTC",
-  "deal_count": 27,
+  "generated_at": "2026-10-22T17:11:30.426707+00:00",
+  "generated_display": "Oct 22, 2026 17:11 UTC",
+  "deal_count": 28,
   "source_errors": [],
   "deals": [
+    {
+      "id": "706f43f9b64d586620e0",
+      "airport": "SEA",
+      "region": "Europe",
+      "kind": "cash",
+      "error_fare": false,
+      "route": "Seattle to Prague, Czech Republic for only $485 roundtrip",
+      "title": "Seattle to Prague, Czech Republic for only $485 roundtrip",
+      "price": 485,
+      "currency": "USD",
+      "price_display": "$485 USD",
+      "posted_at": "2026-10-22T15:16:01+00:00",
+      "posted_display": "Oct 22, 2026",
+      "source": "Secret Flying Seattle",
+      "url": "https://www.secretflying.com/posts/seattle-to-prague-czech-republic-for-only-499-roundtrip/",
+      "note": "Published fare lead. Confirm dates, baggage and final price on the airline checkout."
+    },
     {
       "id": "b605629195e76230e031",
       "airport": "YVR",
