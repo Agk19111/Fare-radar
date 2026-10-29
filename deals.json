@@ -1,9 +1,26 @@
 {
-  "generated_at": "2026-10-29T09:59:11.074093+00:00",
-  "generated_display": "Oct 29, 2026 09:59 UTC",
-  "deal_count": 29,
+  "generated_at": "2026-10-29T18:29:09.741900+00:00",
+  "generated_display": "Oct 29, 2026 18:29 UTC",
+  "deal_count": 30,
   "source_errors": [],
   "deals": [
+    {
+      "id": "e6f10646c0dac6d58e68",
+      "airport": "SEA",
+      "region": "USA",
+      "kind": "cash",
+      "error_fare": false,
+      "route": "Non-stop from Seattle to Austin, Texas (& vice versa) for only $136 roundtrip",
+      "title": "Non-stop from Seattle to Austin, Texas (& vice versa) for only $136 roundtrip",
+      "price": 136,
+      "currency": "USD",
+      "price_display": "$136 USD",
+      "posted_at": "2026-10-29T15:55:02+00:00",
+      "posted_display": "Oct 29, 2026",
+      "source": "Secret Flying Seattle",
+      "url": "https://www.secretflying.com/posts/seattle-to-austin-texas-vice-versa-for-only-158-roundtrip/",
+      "note": "Published fare lead. Confirm dates, baggage and final price on the airline checkout."
+    },
     {
       "id": "1ad94ec4c659c8851073",
       "airport": "SEA",
@@ -311,6 +328,23 @@
       "note": "Travel availability: March, April 2027. Confirm live inventory before paying."
     },
     {
+      "id": "461ff18e80df332b1371",
+      "airport": "YVR",
+      "region": "Mexico",
+      "kind": "cash",
+      "error_fare": false,
+      "route": "2026 27 October Vancouver to Cancun, Mexico - $446 CAD roundtrip including taxes [Nonstop Flights]",
+      "title": "2026 27 October Vancouver to Cancun, Mexico - $446 CAD roundtrip including taxes [Nonstop Flights]",
+      "price": 446,
+      "currency": "CAD",
+      "price_display": "$446 CAD",
+      "posted_at": "2026-10-29T00:00:00+00:00",
+      "posted_display": "Oct 29, 2026",
+      "source": "YVR Deals",
+      "url": "https://yvrdeals.com/vancouver-to-cancun-mexico-446-roundtrip",
+      "note": "Travel availability: November, December 2026 January 2027. Confirm live inventory before paying."
+    },
+    {
       "id": "97d396188f8b10ca0ac6",
       "airport": "YYC",
       "region": "Mexico",
@@ -479,23 +513,6 @@
       "source": "YYZ Deals",
       "url": "https://yyzdeals.com/toronto-to-belize-450-roundtrip",
       "note": "Travel availability: November, December 2026. Confirm live inventory before paying."
-    },
-    {
-      "id": "df210cdba35d78ba7a3e",
-      "airport": "SEA",
-      "region": "USA",
-      "kind": "cash",
-      "error_fare": false,
-      "route": "Seattle to St. Louis (& vice versa) for only $205 roundtrip",
-      "title": "Seattle to St. Louis (& vice versa) for only $205 roundtrip",
-      "price": 205,
-      "currency": "USD",
-      "price_display": "$205 USD",
-      "posted_at": "2026-10-15T15:15:11+00:00",
-      "posted_display": "Oct 15, 2026",
-      "source": "Secret Flying Seattle",
-      "url": "https://www.secretflying.com/posts/seattle-to-st-louis-vice-versa-for-only-154-roundtrip/",
-      "note": "Published fare lead. Confirm dates, baggage and final price on the airline checkout."
     }
   ]
 }
