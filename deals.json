@@ -1,9 +1,26 @@
 {
-  "generated_at": "2026-11-01T06:06:26.665271+00:00",
-  "generated_display": "Nov 01, 2026 06:06 UTC",
-  "deal_count": 33,
+  "generated_at": "2026-11-01T13:26:09.434056+00:00",
+  "generated_display": "Nov 01, 2026 13:26 UTC",
+  "deal_count": 34,
   "source_errors": [],
   "deals": [
+    {
+      "id": "ee8fea5b0378526b524c",
+      "airport": "SEA",
+      "region": "Asia",
+      "kind": "cash",
+      "error_fare": true,
+      "route": "⚠️ ERROR FARE ⚠️ US cities to Japan from only $154 roundtrip",
+      "title": "⚠️ ERROR FARE ⚠️ US cities to Japan from only $154 roundtrip",
+      "price": 154,
+      "currency": "USD",
+      "price_display": "$154 USD",
+      "posted_at": "2026-11-01T09:16:43+00:00",
+      "posted_display": "Nov 01, 2026",
+      "source": "Secret Flying Seattle",
+      "url": "https://www.secretflying.com/posts/error-fare-us-cities-to-japan-from-only-154-roundtrip/",
+      "note": "Published fare lead. Confirm dates, baggage and final price on the airline checkout."
+    },
     {
       "id": "b605629195e76230e031",
       "airport": "YVR",
