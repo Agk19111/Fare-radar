@@ -1,9 +1,26 @@
 {
-  "generated_at": "2026-11-02T11:09:01.040158+00:00",
-  "generated_display": "Nov 02, 2026 11:09 UTC",
-  "deal_count": 35,
+  "generated_at": "2026-11-02T21:43:28.884261+00:00",
+  "generated_display": "Nov 02, 2026 21:43 UTC",
+  "deal_count": 36,
   "source_errors": [],
   "deals": [
+    {
+      "id": "17ae55c091d26f9cddea",
+      "airport": "YYZ",
+      "region": "Mexico",
+      "kind": "cash",
+      "error_fare": false,
+      "route": "Non-stop from Toronto, Canada to Cancun, Mexico for only $356 CAD roundtrip",
+      "title": "Non-stop from Toronto, Canada to Cancun, Mexico for only $356 CAD roundtrip",
+      "price": 356,
+      "currency": "CAD",
+      "price_display": "$356 CAD",
+      "posted_at": "2026-11-02T18:07:01+00:00",
+      "posted_display": "Nov 02, 2026",
+      "source": "Secret Flying Canada",
+      "url": "https://www.secretflying.com/posts/toronto-canada-cancun-mexico-357-cad-roundtrip/",
+      "note": "Published fare lead. Confirm dates, baggage and final price on the airline checkout."
+    },
     {
       "id": "64a7b8d5d3b770aa970b",
       "airport": "SEA",
