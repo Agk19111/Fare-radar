@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-01T19:42:09.819023+00:00",
-  "generated_display": "Nov 01, 2026 19:42 UTC",
-  "deal_count": 35,
+  "generated_at": "2026-11-02T00:45:52.270500+00:00",
+  "generated_display": "Nov 02, 2026 00:45 UTC",
+  "deal_count": 34,
   "source_errors": [],
   "deals": [
     {
@@ -581,23 +581,6 @@
       "source": "Secret Flying Seattle",
       "url": "https://www.secretflying.com/posts/seattle-copenhagen-denmark-429-roundtrip/",
       "note": "Published fare lead. Confirm dates, baggage and final price on the airline checkout."
-    },
-    {
-      "id": "d01ddf87de860c03624d",
-      "airport": "YYZ",
-      "region": "Mexico",
-      "kind": "cash",
-      "error_fare": false,
-      "route": "2026 11 September Toronto to Belize - $339 (CB) to $429 CAD roundtrip including taxes [Nonstop Flights]",
-      "title": "2026 11 September Toronto to Belize - $339 (CB) to $429 CAD roundtrip including taxes [Nonstop Flights]",
-      "price": 339,
-      "currency": "CAD",
-      "price_display": "$339 CAD",
-      "posted_at": "2026-10-19T00:00:00+00:00",
-      "posted_display": "Oct 19, 2026",
-      "source": "YYZ Deals",
-      "url": "https://yyzdeals.com/toronto-to-belize-450-roundtrip",
-      "note": "Travel availability: November, December 2026. Confirm live inventory before paying."
     }
   ]
 }
