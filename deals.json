@@ -1,9 +1,26 @@
 {
-  "generated_at": "2026-11-03T23:24:35.436771+00:00",
-  "generated_display": "Nov 03, 2026 23:24 UTC",
-  "deal_count": 35,
+  "generated_at": "2026-11-04T06:23:51.060523+00:00",
+  "generated_display": "Nov 04, 2026 06:23 UTC",
+  "deal_count": 36,
   "source_errors": [],
   "deals": [
+    {
+      "id": "0c92e1a3bfe3fdbd5ee9",
+      "airport": "SEA",
+      "region": "USA",
+      "kind": "cash",
+      "error_fare": false,
+      "route": "Non-stop from Seattle to Los Angeles (& vice versa) for only $117 roundtrip",
+      "title": "Non-stop from Seattle to Los Angeles (& vice versa) for only $117 roundtrip",
+      "price": 117,
+      "currency": "USD",
+      "price_display": "$117 USD",
+      "posted_at": "2026-11-04T03:56:02+00:00",
+      "posted_display": "Nov 04, 2026",
+      "source": "Secret Flying Seattle",
+      "url": "https://www.secretflying.com/posts/seattle-los-angeles-vice-versa-86-roundtrip/",
+      "note": "Published fare lead. Confirm dates, baggage and final price on the airline checkout."
+    },
     {
       "id": "81f2d8799d1caa27418a",
       "airport": "YVR",
