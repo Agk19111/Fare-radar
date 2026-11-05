@@ -1,9 +1,26 @@
 {
-  "generated_at": "2026-11-04T23:40:48.739962+00:00",
-  "generated_display": "Nov 04, 2026 23:40 UTC",
-  "deal_count": 36,
+  "generated_at": "2026-11-05T06:47:45.526595+00:00",
+  "generated_display": "Nov 05, 2026 06:47 UTC",
+  "deal_count": 37,
   "source_errors": [],
   "deals": [
+    {
+      "id": "acace9de5ac7b450dec7",
+      "airport": "SEA",
+      "region": "Europe",
+      "kind": "cash",
+      "error_fare": false,
+      "route": "Seattle to Stockholm, Sweden for only $439 roundtrip",
+      "title": "Seattle to Stockholm, Sweden for only $439 roundtrip",
+      "price": 439,
+      "currency": "USD",
+      "price_display": "$439 USD",
+      "posted_at": "2026-11-05T03:56:20+00:00",
+      "posted_display": "Nov 05, 2026",
+      "source": "Secret Flying Seattle",
+      "url": "https://www.secretflying.com/posts/seattle-sweden-norway-423-roundtrip/",
+      "note": "Published fare lead. Confirm dates, baggage and final price on the airline checkout."
+    },
     {
       "id": "0c92e1a3bfe3fdbd5ee9",
       "airport": "SEA",
