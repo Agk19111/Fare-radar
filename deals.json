@@ -1,9 +1,26 @@
 {
-  "generated_at": "2026-11-08T10:24:14.383747+00:00",
-  "generated_display": "Nov 08, 2026 10:24 UTC",
-  "deal_count": 35,
+  "generated_at": "2026-11-08T17:56:21.188046+00:00",
+  "generated_display": "Nov 08, 2026 17:56 UTC",
+  "deal_count": 36,
   "source_errors": [],
   "deals": [
+    {
+      "id": "4b9d0f0690738ced7102",
+      "airport": "YVR",
+      "region": "Mexico",
+      "kind": "cash",
+      "error_fare": false,
+      "route": "Non-stop from Vancouver, Canada to Cancun, Mexico for only $443 CAD roundtrip",
+      "title": "Non-stop from Vancouver, Canada to Cancun, Mexico for only $443 CAD roundtrip",
+      "price": 443,
+      "currency": "CAD",
+      "price_display": "$443 CAD",
+      "posted_at": "2026-11-08T15:13:02+00:00",
+      "posted_display": "Nov 08, 2026",
+      "source": "Secret Flying Vancouver",
+      "url": "https://www.secretflying.com/posts/vancouver-canada-cancun-mexico-352-cad-roundtrip/",
+      "note": "Published fare lead. Confirm dates, baggage and final price on the airline checkout."
+    },
     {
       "id": "b605629195e76230e031",
       "airport": "YVR",
