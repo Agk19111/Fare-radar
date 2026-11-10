@@ -1,9 +1,26 @@
 {
-  "generated_at": "2026-11-10T14:54:05.405637+00:00",
-  "generated_display": "Nov 10, 2026 14:54 UTC",
-  "deal_count": 36,
+  "generated_at": "2026-11-10T21:18:44.083013+00:00",
+  "generated_display": "Nov 10, 2026 21:18 UTC",
+  "deal_count": 38,
   "source_errors": [],
   "deals": [
+    {
+      "id": "644b12ef694cfdaa407c",
+      "airport": "YVR",
+      "region": "USA",
+      "kind": "cash",
+      "error_fare": false,
+      "route": "Non-stop from Vancouver, Canada to Los Angeles, USA for only $217 CAD roundtrip",
+      "title": "Non-stop from Vancouver, Canada to Los Angeles, USA for only $217 CAD roundtrip",
+      "price": 217,
+      "currency": "CAD",
+      "price_display": "$217 CAD",
+      "posted_at": "2026-11-10T17:26:03+00:00",
+      "posted_display": "Nov 10, 2026",
+      "source": "Secret Flying Vancouver",
+      "url": "https://www.secretflying.com/posts/vancouver-canada-los-angeles-usa-224-cad-roundtrip/",
+      "note": "Published fare lead. Confirm dates, baggage and final price on the airline checkout."
+    },
     {
       "id": "b605629195e76230e031",
       "airport": "YVR",
@@ -309,6 +326,23 @@
       "source": "YYZ Deals",
       "url": "https://yyzdeals.com/toronto-to-montego-bay-jamaica-483-roundtrip",
       "note": "Travel availability: January, February 2027. Confirm live inventory before paying."
+    },
+    {
+      "id": "65f49e88a4b849a46852",
+      "airport": "YVR",
+      "region": "Europe",
+      "kind": "cash",
+      "error_fare": false,
+      "route": "2026 23 October Vancouver to Reykjavik, Iceland - $587 to $687 CAD roundtrip including taxes [Nonstop Flights]",
+      "title": "2026 23 October Vancouver to Reykjavik, Iceland - $587 to $687 CAD roundtrip including taxes [Nonstop Flights]",
+      "price": 587,
+      "currency": "CAD",
+      "price_display": "$587–$687 CAD",
+      "posted_at": "2026-11-10T00:00:00+00:00",
+      "posted_display": "Nov 10, 2026",
+      "source": "YVR Deals",
+      "url": "https://yvrdeals.com/vancouver-to-reykjavik-iceland-587-roundtrip-1",
+      "note": "Travel availability: September, October, November, December 2026 January, February 2027. Confirm live inventory before paying."
     },
     {
       "id": "81b541aa2460cb74fa66",
