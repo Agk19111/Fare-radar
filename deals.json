@@ -1,9 +1,43 @@
 {
-  "generated_at": "2026-11-10T21:18:44.083013+00:00",
-  "generated_display": "Nov 10, 2026 21:18 UTC",
+  "generated_at": "2026-11-11T06:22:37.593933+00:00",
+  "generated_display": "Nov 11, 2026 06:22 UTC",
   "deal_count": 38,
   "source_errors": [],
   "deals": [
+    {
+      "id": "4bb6ecee2139b606e004",
+      "airport": "SEA",
+      "region": "USA",
+      "kind": "cash",
+      "error_fare": false,
+      "route": "Non-stop from San Francisco to Seattle (& vice versa) for only $97 roundtrip",
+      "title": "Non-stop from San Francisco to Seattle (& vice versa) for only $97 roundtrip",
+      "price": 97,
+      "currency": "USD",
+      "price_display": "$97 USD",
+      "posted_at": "2026-11-11T04:56:06+00:00",
+      "posted_display": "Nov 11, 2026",
+      "source": "Secret Flying Seattle",
+      "url": "https://www.secretflying.com/posts/san-francisco-to-seattle-vice-versa-for-only-97-roundtrip/",
+      "note": "Published fare lead. Confirm dates, baggage and final price on the airline checkout."
+    },
+    {
+      "id": "c77a06acf6e02a72eeb7",
+      "airport": "SEA",
+      "region": "USA",
+      "kind": "cash",
+      "error_fare": false,
+      "route": "Non-stop from Seattle to San Diego (& vice versa) for only $131 roundtrip",
+      "title": "Non-stop from Seattle to San Diego (& vice versa) for only $131 roundtrip",
+      "price": 131,
+      "currency": "USD",
+      "price_display": "$131 USD",
+      "posted_at": "2026-11-11T03:56:02+00:00",
+      "posted_display": "Nov 11, 2026",
+      "source": "Secret Flying Seattle",
+      "url": "https://www.secretflying.com/posts/seattle-san-diego-vice-versa-143-roundtrip/",
+      "note": "Published fare lead. Confirm dates, baggage and final price on the airline checkout."
+    },
     {
       "id": "644b12ef694cfdaa407c",
       "airport": "YVR",
@@ -615,40 +649,6 @@
       "source": "Secret Flying Canada",
       "url": "https://www.secretflying.com/posts/calgary-canada-to-paris-france-for-only-640-cad-roundtrip/",
       "note": "Published fare lead. Confirm dates, baggage and final price on the airline checkout."
-    },
-    {
-      "id": "7b470fc4573043bad090",
-      "airport": "YYC",
-      "region": "Europe",
-      "kind": "cash",
-      "error_fare": false,
-      "route": "2026 22 September Calgary to Edinburgh, Scotland - $626 to $686 CAD roundtrip including taxes | Nonstop Flights",
-      "title": "2026 22 September Calgary to Edinburgh, Scotland - $626 to $686 CAD roundtrip including taxes | Nonstop Flights",
-      "price": 626,
-      "currency": "CAD",
-      "price_display": "$626–$686 CAD",
-      "posted_at": "2026-10-28T00:00:00+00:00",
-      "posted_display": "Oct 28, 2026",
-      "source": "YYC Deals",
-      "url": "https://yycdeals.com/calgary-to-edinburgh-scotland-633-roundtrip",
-      "note": "Travel availability: Late May, June, August, October 2026. Confirm live inventory before paying."
-    },
-    {
-      "id": "09946ddb07a114a32f34",
-      "airport": "YYC",
-      "region": "Europe",
-      "kind": "cash",
-      "error_fare": false,
-      "route": "2026 5 October Calgary to Barcelona, Spain - $547 to $632 CAD roundtrip including taxes | Nonstop Flights",
-      "title": "2026 5 October Calgary to Barcelona, Spain - $547 to $632 CAD roundtrip including taxes | Nonstop Flights",
-      "price": 547,
-      "currency": "CAD",
-      "price_display": "$547–$632 CAD",
-      "posted_at": "2026-10-28T00:00:00+00:00",
-      "posted_display": "Oct 28, 2026",
-      "source": "YYC Deals",
-      "url": "https://yycdeals.com/calgary-to-barcelona-spain-641-roundtrip",
-      "note": "Travel availability: September, October 2026. Confirm live inventory before paying."
     }
   ]
 }
