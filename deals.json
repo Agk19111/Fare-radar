@@ -1,12 +1,8 @@
 {
-  "generated_at": "2026-11-17T03:54:57.746169+00:00",
-  "generated_display": "Nov 17, 2026 03:54 UTC",
+  "generated_at": "2026-11-17T16:00:53.715143+00:00",
+  "generated_display": "Nov 17, 2026 16:00 UTC",
   "deal_count": 36,
-  "source_errors": [
-    "Secret Flying Canada: 500 Server Error: Internal Server Error for url: https://www.secretflying.com/canada-flight-deals/",
-    "Secret Flying Vancouver: 500 Server Error: Internal Server Error for url: https://www.secretflying.com/cheap-flights-from/Vancouver/",
-    "Secret Flying Seattle: 500 Server Error: Internal Server Error for url: https://www.secretflying.com/cheap-flights-from/Seattle/"
-  ],
+  "source_errors": [],
   "deals": [
     {
       "id": "6a7bc2a2f8ec29efd512",
@@ -19,8 +15,8 @@
       "price": 525,
       "currency": "CAD",
       "price_display": "$525–$614 CAD",
-      "posted_at": "2026-11-16T00:00:00+00:00",
-      "posted_display": "Nov 16, 2026",
+      "posted_at": "2026-11-17T00:00:00+00:00",
+      "posted_display": "Nov 17, 2026",
       "source": "YVR Deals",
       "url": "https://yvrdeals.com/vancouver-to-paris-france-614-roundtrip",
       "note": "Travel availability: April, May, June, October, November, December 2026 January, February 2027. Confirm live inventory before paying."
@@ -36,8 +32,8 @@
       "price": 586,
       "currency": "CAD",
       "price_display": "$586–$686 CAD",
-      "posted_at": "2026-11-16T00:00:00+00:00",
-      "posted_display": "Nov 16, 2026",
+      "posted_at": "2026-11-17T00:00:00+00:00",
+      "posted_display": "Nov 17, 2026",
       "source": "YYC Deals",
       "url": "https://yycdeals.com/calgary-to-paris-france-605-roundtrip",
       "note": "Travel availability: October, November, December 2026 January, February, March, April, May, June 2027. Confirm live inventory before paying."
@@ -53,8 +49,8 @@
       "price": 674,
       "currency": "CAD",
       "price_display": "$674 CAD",
-      "posted_at": "2026-11-16T00:00:00+00:00",
-      "posted_display": "Nov 16, 2026",
+      "posted_at": "2026-11-17T00:00:00+00:00",
+      "posted_display": "Nov 17, 2026",
       "source": "YVR Deals",
       "url": "https://yvrdeals.com/vancouver-to-bangkok-thailand-674-roundtrip",
       "note": "Travel availability: August, September, November, December 2026 January, February, March 2027. Confirm live inventory before paying."
@@ -70,8 +66,8 @@
       "price": 679,
       "currency": "CAD",
       "price_display": "$679–$954 CAD",
-      "posted_at": "2026-11-16T00:00:00+00:00",
-      "posted_display": "Nov 16, 2026",
+      "posted_at": "2026-11-17T00:00:00+00:00",
+      "posted_display": "Nov 17, 2026",
       "source": "YVR Deals",
       "url": "https://yvrdeals.com/vancouver-to-tokyo-japan-954-roundtrip",
       "note": "Travel availability: November, December 2026 January 2027. Confirm live inventory before paying."
@@ -87,8 +83,8 @@
       "price": 2086,
       "currency": "CAD",
       "price_display": "$2,086 CAD",
-      "posted_at": "2026-11-16T00:00:00+00:00",
-      "posted_display": "Nov 16, 2026",
+      "posted_at": "2026-11-17T00:00:00+00:00",
+      "posted_display": "Nov 17, 2026",
       "source": "YYZ Deals",
       "url": "https://yyzdeals.com/toronto-to-ponta-delgada-azores-business-class-2086-roundtrip",
       "note": "Travel availability: November 2026 January, February, March, April, May, June, July, August 2027. Confirm live inventory before paying."
@@ -104,8 +100,8 @@
       "price": 2466,
       "currency": "CAD",
       "price_display": "$2,466 CAD",
-      "posted_at": "2026-11-16T00:00:00+00:00",
-      "posted_display": "Nov 16, 2026",
+      "posted_at": "2026-11-17T00:00:00+00:00",
+      "posted_display": "Nov 17, 2026",
       "source": "YYZ Deals",
       "url": "https://yyzdeals.com/toronto-to-amman-jordan-business-class-qatar-airways-2466-roundtrip",
       "note": "Travel availability: November 2026 January, February 2027. Confirm live inventory before paying."
@@ -121,8 +117,8 @@
       "price": 338,
       "currency": "CAD",
       "price_display": "$338–$478 CAD",
-      "posted_at": "2026-11-16T00:00:00+00:00",
-      "posted_display": "Nov 16, 2026",
+      "posted_at": "2026-11-17T00:00:00+00:00",
+      "posted_display": "Nov 17, 2026",
       "source": "YYC Deals",
       "url": "https://yycdeals.com/calgary-to-cancun-mexico-478-roundtrip",
       "note": "Travel availability: January, February, March 2027. Confirm live inventory before paying."
@@ -138,8 +134,8 @@
       "price": 2388,
       "currency": "CAD",
       "price_display": "$2,388–$2,788 CAD",
-      "posted_at": "2026-11-16T00:00:00+00:00",
-      "posted_display": "Nov 16, 2026",
+      "posted_at": "2026-11-17T00:00:00+00:00",
+      "posted_display": "Nov 17, 2026",
       "source": "YVR Deals",
       "url": "https://yvrdeals.com/vancouver-to-tokyo-japan-business-class-2388-roundtrip",
       "note": "Travel availability: September, November, December 2026 April, May, June, July, August 2027. Confirm live inventory before paying."
@@ -155,8 +151,8 @@
       "price": 619,
       "currency": "CAD",
       "price_display": "$619 CAD",
-      "posted_at": "2026-11-16T00:00:00+00:00",
-      "posted_display": "Nov 16, 2026",
+      "posted_at": "2026-11-17T00:00:00+00:00",
+      "posted_display": "Nov 17, 2026",
       "source": "YYC Deals",
       "url": "https://yycdeals.com/calgary-to-london-barcelona-to-calgary-619-roundtrip",
       "note": "Travel availability: April, May 2027. Confirm live inventory before paying."
@@ -172,8 +168,8 @@
       "price": 615,
       "currency": "CAD",
       "price_display": "$615 CAD",
-      "posted_at": "2026-11-16T00:00:00+00:00",
-      "posted_display": "Nov 16, 2026",
+      "posted_at": "2026-11-17T00:00:00+00:00",
+      "posted_display": "Nov 17, 2026",
       "source": "YYC Deals",
       "url": "https://yycdeals.com/calgary-to-paris-and-barcelona-to-calgary-615-roundtrip",
       "note": "Travel availability: April, May 2027. Confirm live inventory before paying."
@@ -189,8 +185,8 @@
       "price": 647,
       "currency": "CAD",
       "price_display": "$647 CAD",
-      "posted_at": "2026-11-16T00:00:00+00:00",
-      "posted_display": "Nov 16, 2026",
+      "posted_at": "2026-11-17T00:00:00+00:00",
+      "posted_display": "Nov 17, 2026",
       "source": "YYC Deals",
       "url": "https://yycdeals.com/calgary-to-london-and-then-rome-to-calgary-647-roundtrip",
       "note": "Travel availability: March, April 2027. Confirm live inventory before paying."
@@ -206,8 +202,8 @@
       "price": 446,
       "currency": "CAD",
       "price_display": "$446 CAD",
-      "posted_at": "2026-11-16T00:00:00+00:00",
-      "posted_display": "Nov 16, 2026",
+      "posted_at": "2026-11-17T00:00:00+00:00",
+      "posted_display": "Nov 17, 2026",
       "source": "YVR Deals",
       "url": "https://yvrdeals.com/vancouver-to-cancun-mexico-446-roundtrip",
       "note": "Travel availability: November, December 2026 January 2027. Confirm live inventory before paying."
@@ -223,8 +219,8 @@
       "price": 603,
       "currency": "CAD",
       "price_display": "$603 CAD",
-      "posted_at": "2026-11-16T00:00:00+00:00",
-      "posted_display": "Nov 16, 2026",
+      "posted_at": "2026-11-17T00:00:00+00:00",
+      "posted_display": "Nov 17, 2026",
       "source": "YYC Deals",
       "url": "https://yycdeals.com/calgary-to-london-and-then-dublin-to-calgary-603-roundtrip",
       "note": "Travel availability: April, May 2027. Confirm live inventory before paying."
@@ -240,8 +236,8 @@
       "price": 343,
       "currency": "CAD",
       "price_display": "$343–$483 CAD",
-      "posted_at": "2026-11-16T00:00:00+00:00",
-      "posted_display": "Nov 16, 2026",
+      "posted_at": "2026-11-17T00:00:00+00:00",
+      "posted_display": "Nov 17, 2026",
       "source": "YYZ Deals",
       "url": "https://yyzdeals.com/toronto-to-montego-bay-jamaica-483-roundtrip",
       "note": "Travel availability: January, February 2027. Confirm live inventory before paying."
@@ -257,8 +253,8 @@
       "price": 587,
       "currency": "CAD",
       "price_display": "$587–$687 CAD",
-      "posted_at": "2026-11-16T00:00:00+00:00",
-      "posted_display": "Nov 16, 2026",
+      "posted_at": "2026-11-17T00:00:00+00:00",
+      "posted_display": "Nov 17, 2026",
       "source": "YVR Deals",
       "url": "https://yvrdeals.com/vancouver-to-reykjavik-iceland-587-roundtrip-1",
       "note": "Travel availability: September, October, November, December 2026 January, February, March, April 2027. Confirm live inventory before paying."
@@ -274,8 +270,8 @@
       "price": 246,
       "currency": "CAD",
       "price_display": "$246 CAD",
-      "posted_at": "2026-11-16T00:00:00+00:00",
-      "posted_display": "Nov 16, 2026",
+      "posted_at": "2026-11-17T00:00:00+00:00",
+      "posted_display": "Nov 17, 2026",
       "source": "YVR Deals",
       "url": "https://yvrdeals.com/vancouver-to-london-uk-246-one-way",
       "note": "Travel availability: January, February 2027. Confirm live inventory before paying."
@@ -291,8 +287,8 @@
       "price": 472,
       "currency": "CAD",
       "price_display": "$472 CAD",
-      "posted_at": "2026-11-16T00:00:00+00:00",
-      "posted_display": "Nov 16, 2026",
+      "posted_at": "2026-11-17T00:00:00+00:00",
+      "posted_display": "Nov 17, 2026",
       "source": "YVR Deals",
       "url": "https://yvrdeals.com/vancouver-to-leon-mexico-472-roundtrip",
       "note": "Travel availability: October, November, December 2026. Confirm live inventory before paying."
