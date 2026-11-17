@@ -1,8 +1,12 @@
 {
-  "generated_at": "2026-11-16T19:37:07.286046+00:00",
-  "generated_display": "Nov 16, 2026 19:37 UTC",
+  "generated_at": "2026-11-17T03:54:57.746169+00:00",
+  "generated_display": "Nov 17, 2026 03:54 UTC",
   "deal_count": 36,
-  "source_errors": [],
+  "source_errors": [
+    "Secret Flying Canada: 500 Server Error: Internal Server Error for url: https://www.secretflying.com/canada-flight-deals/",
+    "Secret Flying Vancouver: 500 Server Error: Internal Server Error for url: https://www.secretflying.com/cheap-flights-from/Vancouver/",
+    "Secret Flying Seattle: 500 Server Error: Internal Server Error for url: https://www.secretflying.com/cheap-flights-from/Seattle/"
+  ],
   "deals": [
     {
       "id": "6a7bc2a2f8ec29efd512",
