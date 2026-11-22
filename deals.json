@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-21T19:16:51.895228+00:00",
-  "generated_display": "Nov 21, 2026 19:16 UTC",
-  "deal_count": 40,
+  "generated_at": "2026-11-22T01:20:14.200684+00:00",
+  "generated_display": "Nov 22, 2026 01:20 UTC",
+  "deal_count": 39,
   "source_errors": [],
   "deals": [
     {
@@ -666,23 +666,6 @@
       "source": "Secret Flying Vancouver",
       "url": "https://www.secretflying.com/posts/vancouver-canada-cancun-mexico-352-cad-roundtrip/",
       "note": "Published fare lead. Confirm dates, baggage and final price on the airline checkout."
-    },
-    {
-      "id": "e339fa528af51590a0e4",
-      "airport": "YYC",
-      "region": "Europe",
-      "kind": "cash",
-      "error_fare": false,
-      "route": "2026 9 October Calgary to Rome, Italy - $575 to $624 CAD roundtrip including taxes [Nonstop Flights]",
-      "title": "2026 9 October Calgary to Rome, Italy - $575 to $624 CAD roundtrip including taxes [Nonstop Flights]",
-      "price": 575,
-      "currency": "CAD",
-      "price_display": "$575–$624 CAD",
-      "posted_at": "2026-11-08T00:00:00+00:00",
-      "posted_display": "Nov 08, 2026",
-      "source": "YYC Deals",
-      "url": "https://yycdeals.com/calgary-to-rome-italy-624-roundtrip",
-      "note": "Travel availability: July, October, November 2026 April 2027 ($730). Confirm live inventory before paying."
     }
   ]
 }
