@@ -1,9 +1,26 @@
 {
-  "generated_at": "2026-11-22T19:41:53.728316+00:00",
-  "generated_display": "Nov 22, 2026 19:41 UTC",
-  "deal_count": 40,
+  "generated_at": "2026-11-23T01:44:10.555671+00:00",
+  "generated_display": "Nov 23, 2026 01:44 UTC",
+  "deal_count": 41,
   "source_errors": [],
   "deals": [
+    {
+      "id": "4b74bfc46671e77da1ed",
+      "airport": "YEG",
+      "region": "Mexico",
+      "kind": "cash",
+      "error_fare": false,
+      "route": "Non-stop from Edmonton, Canada to Puerto Vallarta, Mexico for only $349 CAD roundtrip",
+      "title": "Non-stop from Edmonton, Canada to Puerto Vallarta, Mexico for only $349 CAD roundtrip",
+      "price": 349,
+      "currency": "CAD",
+      "price_display": "$349 CAD",
+      "posted_at": "2026-11-22T19:01:01+00:00",
+      "posted_display": "Nov 22, 2026",
+      "source": "Secret Flying Canada",
+      "url": "https://www.secretflying.com/posts/non-stop-edmonton-canada-puerto-vallarta-mexico-384-cad-roundtrip/",
+      "note": "Published fare lead. Confirm dates, baggage and final price on the airline checkout."
+    },
     {
       "id": "1e93ecc6e4fda7e616a1",
       "airport": "YYZ",
