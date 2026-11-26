@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-25T19:17:30.660127+00:00",
-  "generated_display": "Nov 25, 2026 19:17 UTC",
+  "generated_at": "2026-11-26T03:34:47.840280+00:00",
+  "generated_display": "Nov 26, 2026 03:34 UTC",
   "deal_count": 33,
   "source_errors": [],
   "deals": [
@@ -197,8 +197,8 @@
       "region": "Europe",
       "kind": "cash",
       "error_fare": false,
-      "route": "2026 1 November Vancouver to Reykjavik, Iceland - $587 to $687 CAD roundtrip including taxes [Nonstop Flights]",
-      "title": "2026 1 November Vancouver to Reykjavik, Iceland - $587 to $687 CAD roundtrip including taxes [Nonstop Flights]",
+      "route": "2026 10 November Vancouver to Reykjavik, Iceland - $587 to $687 CAD roundtrip including taxes [Nonstop Flights]",
+      "title": "2026 10 November Vancouver to Reykjavik, Iceland - $587 to $687 CAD roundtrip including taxes [Nonstop Flights]",
       "price": 587,
       "currency": "CAD",
       "price_display": "$587–$687 CAD",
